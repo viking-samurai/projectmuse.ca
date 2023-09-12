@@ -1,94 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");
 
-
-/*Additional CSS*/
-@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
-
-.row-centering-tool{
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	align-items: center;
-}
-
-.servicesParagraph{
-	font-size: 16pt;
-	font-weight: 400;
-	color: #484747;
-}
-
-a.navLink:link{font-size: 20px; font-weight: 900; color: black;}
-a.navLink:visited{font-size: 20px; font-weight: 900; color: black;}
-a.navLink:hover{font-size: 20px; font-weight: 900; color: black;}
-a.navLink:active{font-size: 20px; font-weight: 900; color: black;}
-
-.portfolioImage{
-	margin: auto;
-	max-width: 16em;
-}
-
-.portfolioParagraph{
-	font-size: 14pt;
-	font-weight: 400;
-	color: #484747;
-}
-
-.blogImageIndex{
-	max-height: 14em;
-	max-width: 20em;
-	margin: 0;
-}
-
-.blogImageArticle{
-	max-width: 16em;
-	margin: 0;
-}
-
-.blogParagraph{
-	font-size: 1.25rem;
-	font-weight: 400;
-	margin-right: 8%;
-	color: #484747;
-}
-
-.backButton{
-	margin: auto;
-	font-size: 1.33rem;
-}
-
-.outgoingButton{
-	font-size: 1.33rem;
-}
-
-.topButton{
-	display: none;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-  	position: fixed;
-  	right: 0px;
-  	z-index: 99;
-  	font-size: 24px;
-	font-weight: 600;
-  	border: none;
-  	outline: none;
-  	background-color: #F47FAA;
-  	color: white;
-  	cursor: pointer;
-  	padding: 14px;
-  	border-radius: 4px;
-}
-
-.topButton:hover{
-	background-color: #555;
-}
-
-.topButtonText{
-	margin: auto;
-}
-
-
 /*
 	Dopetrope by HTML5 UP
 	html5up.net | @ajlkn
@@ -553,7 +465,6 @@ input, select, textarea {
 				flex-wrap: wrap;
 				box-sizing: border-box;
 				align-items: stretch;
-				
 			}
 
 				.row > * {
@@ -1665,14 +1576,10 @@ input, select, textarea {
 
 		.box .image.featured {
 			position: relative;
-			height: 10em;
 			width: auto;
 			left: 1.75em;
 			top: 1.75em;
 			margin: -4.5em 0 4.25em -3.5em;
-			display: flex;
-			flex-direction: column;
-			justify-content: space-evenly;
 		}
 
 		.box.post header {
@@ -1879,6 +1786,7 @@ input, select, textarea {
 
 		ul.contact li {
 			position: relative;
+			border-top: solid 1px #ddd;
 			padding: 1.3em 0 1.3em 7em;
 		}
 
@@ -2167,7 +2075,7 @@ input, select, textarea {
 		#header h1 {
 			color: #252122;
 			font-weight: 900;
-			font-size: 4.4em;
+			font-size: 2.5em;
 			letter-spacing: -0.035em;
 			line-height: 1;
 		}
@@ -2194,7 +2102,7 @@ input, select, textarea {
 
 				#nav > ul > li > a {
 					border-radius: 5px;
-					color: #d52349;
+					color: #5d5d5d;
 					text-decoration: none;
 					padding: 0.6em 1.2em 0.6em 1.2em;
 					-moz-transition: background-color .25s ease-in-out;
@@ -2205,7 +2113,7 @@ input, select, textarea {
 				}
 
 				#nav > ul > li:hover > a, #nav > ul > li.active > a {
-					background: #e5e4e2;
+					background: #f3f3f3;
 				}
 
 				#nav > ul > li.current > a {
@@ -2265,9 +2173,9 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: url("../../images/miniBackground.png");
-		background-position: center;
-		background-size: cover;
+		background: #CCE8F4 url("../../images/pic01.jpg");
+		background-position: center center;
+		background-size: auto 100%;
 		background-repeat: no-repeat;
 		text-align: center;
 		position: relative;
@@ -2290,10 +2198,9 @@ input, select, textarea {
 			}
 
 			#banner header p {
-				color: #F47FAA;
+				color: #d52349;
 				padding: 0;
 				font-style: normal;
-				font-weight: 400;
 				margin: 0;
 				font-size: 1.5em;
 			}
