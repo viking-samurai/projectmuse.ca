@@ -216,6 +216,13 @@ input, select, textarea {
 		}
 
 /* Row */
+	
+.row-centering-tool{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
 
 	.row {
 		display: flex;
@@ -2173,9 +2180,9 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/pic01.jpg");
-		background-position: center center;
-		background-size: auto 100%;
+		background: url("../../images/miniBackground.png");
+		background-position: center;
+		background-size: cover;
 		background-repeat: no-repeat;
 		text-align: center;
 		position: relative;
