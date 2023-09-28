@@ -1696,6 +1696,17 @@ input, select, textarea {
 
 /* Image */
 
+.blog-image-article{
+	max-width: 16em;
+	margin: 0;
+}
+
+.blog-image-index{
+	max-height: 14em;
+	max-width: 20em;
+	margin: 0;
+}
+
 	.image {
 		display: inline-block;
 		outline: 0;
