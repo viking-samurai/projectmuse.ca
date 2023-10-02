@@ -1,7 +1,7 @@
 //Additional JavaScript requirements
 //Back to top hidden button
 // Get the button
-let mybutton = document.getElementById("topButton");
+let mybutton = document.getElementById("top-button");
 				
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};

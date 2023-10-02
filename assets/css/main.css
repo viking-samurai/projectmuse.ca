@@ -1614,7 +1614,7 @@ input, select, textarea {
 
 /* Button */
 
-.topButton{
+.top-button{
 	display: none;
 	flex-direction: column;
 	justify-content: center;
@@ -1633,11 +1633,11 @@ input, select, textarea {
   	border-radius: 4px;
 }
 
-.topButton:hover{
+.top-button:hover{
 	background-color: #555;
 }
 
-.topButtonText{
+.top-button-text{
 	margin: auto;
 }
 
