@@ -20,7 +20,6 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 
-
 /*
 	Dopetrope by HTML5 UP
 	html5up.net | @ajlkn
