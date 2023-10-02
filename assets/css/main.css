@@ -175,6 +175,10 @@ input, select, textarea {
 		margin-bottom: 2em;
 	}
 
+.article-description-paragraph {
+	max-width: 30em;
+}
+
 /* Container */
 
 	.container {
@@ -1913,7 +1917,7 @@ input, select, textarea {
 		padding-left: 0;
 		overflow: hidden;
 		cursor: default;
-		margin: 0 0 3.25em 1em;
+		margin: 0 0 3.25em .66em;
 	}
 
 		ul.social li {
@@ -2131,7 +2135,8 @@ input, select, textarea {
 				}
 
 				#nav > ul > li:hover > a, #nav > ul > li.active > a {
-					background: #f3f3f3;
+					background: #d52349;
+					color: #fff !important;
 				}
 
 				#nav > ul > li.current > a {
