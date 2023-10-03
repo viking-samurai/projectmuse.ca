@@ -1997,11 +1997,13 @@ input, select, textarea {
 /* Social */
 
 	ul.social {
+		display: flex;
+		justify-content: start;
+		align-items: top;
 		list-style: none;
 		padding-left: 0;
 		overflow: hidden;
 		cursor: default;
-		margin: 0 0 3.25em .66em;
 	}
 
 		ul.social li {
