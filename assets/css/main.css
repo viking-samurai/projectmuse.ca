@@ -194,6 +194,7 @@ input, select, textarea {
 	@media (max-width: 693px) {
 		.service-paragraph {
 			font-size: 1.4rem;
+			margin: 1em;
 		}
 
 		.portfolio-header {
@@ -201,15 +202,12 @@ input, select, textarea {
 		}
 
 		.portfolio-paragraph {
-			font-size: 1.2rem;
+			font-size: 1.1rem;
 			margin: 1em;
 		}
 
 		.blog-header {
-			display: flex;
-			flex-direction: row;
-			justify-content: center;
-			align-items: center;
+			margin: 1em;
 		}
 
 		.blog-description-paragraph {
@@ -1779,7 +1777,8 @@ input, select, textarea {
 
 @media (max-width: 693px) {
 	.portfolio-image {
-		margin: 1em;
+		margin: auto;
+		max-width: 16em;
 	}
 
 	.blog-image-article{
