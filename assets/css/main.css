@@ -175,6 +175,13 @@ input, select, textarea {
 		margin-bottom: 2em;
 	}
 
+	@media (max-width: 693px) {
+		p, ul, ol, dl, table {
+			font-size: 2.2rem;
+		}
+	}
+
+
 .article-description-paragraph {
 	max-width: 30em;
 }
