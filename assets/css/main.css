@@ -1998,8 +1998,8 @@ input, select, textarea {
 
 	ul.social {
 		display: flex;
-		justify-content: start;
-		align-items: top;
+		justify-content: flex-start;
+		align-items: baseline;
 		list-style: none;
 		padding-left: 0;
 		overflow: hidden;
