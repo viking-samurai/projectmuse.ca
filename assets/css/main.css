@@ -175,9 +175,34 @@ input, select, textarea {
 		margin-bottom: 2em;
 	}
 
+	.services-paragraph {
+		font-size: 16pt;
+		font-weight: 400;
+		color: #484747;
+	}
+
+	.portfolio-paragraph{
+		font-size: 14pt;
+		font-weight: 400;
+		color: #484747;
+	}
+
 	@media (max-width: 693px) {
-		p, ul, ol, dl, table {
-			font-size: 2.2rem;
+		.service-paragraph {
+			font-size: 1.4rem;
+		}
+
+		.portfolio-image {
+			margin: 1em;
+		}
+
+		.portfolio-header {
+			margin: 1em;
+		}
+
+		.portfolio-paragraph {
+			font-size: 1.2rem;
+			margin: 1em;
 		}
 	}
 
