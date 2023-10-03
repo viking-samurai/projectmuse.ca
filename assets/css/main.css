@@ -193,7 +193,8 @@ input, select, textarea {
 
 	@media (max-width: 693px) {
 		.service-paragraph {
-			font-size: 1.4rem;
+			font-size: 1.2rem;
+			font-weight: 400;
 			margin: 1em;
 		}
 
@@ -1783,7 +1784,7 @@ input, select, textarea {
 
 @media (max-width: 693px) {
 	.portfolio-image {
-		margin: auto;
+		margin: auto 1em;
 		max-width: 16em;
 	}
 
