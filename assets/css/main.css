@@ -181,7 +181,7 @@ input, select, textarea {
 		color: #484747;
 	}
 
-	.portfolio-paragraph{
+	.portfolio-paragraph {
 		font-size: 14pt;
 		font-weight: 400;
 		color: #484747;
@@ -189,6 +189,11 @@ input, select, textarea {
 
 	.blog-description-paragraph {
 		max-width: 30em;
+	}
+
+	.main-offers-paragraph {
+		font-size: 14pt;
+		color: #484747;
 	}
 
 	@media (max-width: 693px) {
