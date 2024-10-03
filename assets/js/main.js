@@ -1,24 +1,28 @@
 // Additional JavaScript requirements
 // Back to top hidden button
 // Get the button
-const mybutton = document.getElementById("top-button");
+const myButton = document.getElementById("top-button");
 				
 // When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
+window.onscroll = () => {
+	scrollFunction();
+};
 
 function scrollFunction() {
   if (document.body.scrollTop > 5 || document.documentElement.scrollTop > 5) {
-	mybutton.style.display = "flex";
+	myButton.style.display = "flex";
   } else {
-	mybutton.style.display = "none";
+	myButton.style.display = "none";
   }
 }
 
 // When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
-}
+myButton.onclick = () => {
+	window.scroll({
+		top: 0,
+		behavior: "smooth",
+	});
+};
 
 
 
