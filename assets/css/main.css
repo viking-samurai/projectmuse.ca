@@ -1861,6 +1861,10 @@ input, select, textarea {
 			padding-left: 0.25em;
 		}
 
+	.main-nav-dropdown {
+		text-align: center;
+	}
+
 /* Actions */
 
 	ul.actions {
