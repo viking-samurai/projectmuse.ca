@@ -188,6 +188,7 @@ input, select, textarea {
 	}
 
 	.blog-description-paragraph {
+		font-weight: 400;
 		max-width: 30em;
 	}
 
