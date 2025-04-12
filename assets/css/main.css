@@ -11,15 +11,21 @@
 	display: flex;
 	flex-direction: column;
 	text-align: left;
-	justify-content: space-between;
+	justify-content: flex-start;
 }
 
 .right-site-display {
 	display: flex;
 	flex-direction: column;
 	text-align: right;
-	justify-content: space-between;
+	justify-content: flex-start;
 }
+
+.reverse {
+	display: flex;
+	flex-direction: row-reverse;
+}
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
