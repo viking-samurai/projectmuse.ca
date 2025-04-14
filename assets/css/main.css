@@ -2363,7 +2363,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: url("../../images/miniBackground.png");
+		background: url("../../images/mainBackground.png");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
