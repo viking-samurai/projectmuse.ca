@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.projectmuse.ca/index.html</loc>
+    <lastmod>2025-04-25</lastmod>
+  </url>  
+
+  <url>
+    <loc>https://www.projectmuse.ca/articles/developingYourCreativeSelf.html</loc>
+    <lastmod>2025-04-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.projectmuse.ca/articles/persistenceThroughoutTheJourney.html</loc>
+    <lastmod>2025-04-17</lastmod>
+  </url>
+  <ul>
+    <loc>https://www.projectmuse.ca/articles/theEconomicsOfTruthiness.html</loc>
+    <lastmod>2025-04-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.projectmuse.ca/articles/theGrinder.html</loc>
+    <lastmod>2025-04-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.projectmuse.ca/portfolio/blogs-and-smallBusinesses.html</loc>
+    <lastmod>2025-04-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.projectmuse.ca/portfolio/commercial-and-industrial.html</loc>
+    <lastmod>2025-04-17</lastmod>
+  </url>
+  <ul>
+    <loc>https://www.projectmuse.ca/portfolio/resumés-and-curriculumVitae.html</loc>
+    <lastmod>2025-04-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.projectmuse.ca/portfolio/selfPublishing-and-other.html</loc>
+    <lastmod>2025-04-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.projectmuse.ca/services/custom-built-creations.html</loc>
+    <lastmod>2025-04-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.projectmuse.ca/services/management-and-consulting.html</loc>
+    <lastmod>2025-04-17</lastmod>
+  </url>
+  <ul>
+    <loc>https://www.projectmuse.ca/services/seo-and-data-packages.html</loc>
+    <lastmod>2025-04-17</lastmod>
+  </url>
+</urlset>
