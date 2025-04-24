@@ -1922,10 +1922,6 @@ input, select, textarea {
 			padding-left: 0.25em;
 		}
 
-	.main-nav-dropdown {
-		text-align: center;
-	}
-
 /* Actions */
 
 	ul.actions {
@@ -2270,6 +2266,20 @@ input, select, textarea {
 		}
 
 /* Nav */
+
+	.main-nav-dropdown {
+		text-align: center;
+	}
+
+	.home-nav-button {
+		display: none;
+	}
+
+	@media (max-width: 693px) {
+		.home-nav-button {
+			display: flex;
+		}
+	}
 
 	#nav {
 		margin: 2.5em 0 0 0;
