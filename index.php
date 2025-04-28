@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-	<?php require 'partials/head.php' ?>	
+	<?php require 'partials/index_Head.php' ?>
 
 	<body class="homepage is-preload">
 		<div id="page-wrapper">
