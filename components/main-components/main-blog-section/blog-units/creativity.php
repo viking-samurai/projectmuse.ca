@@ -9,7 +9,7 @@
 	the importance of creativity to the self, and then work outwards from there...</p>
 <footer>
 	<ul class="actions">
-		<li><a href="articles/developingYourCreativeSelf.html" class="button icon solid fa-file-alt">Continue Reading</a></li>
+		<li><a href="articles/developingYourCreativeSelf.php" class="button icon solid fa-file-alt">Continue Reading</a></li>
 		<li style="display: none;"><a href="#" class="button alt icon solid fa-comment">33 comments</a></li>
 	</ul>
 </footer>

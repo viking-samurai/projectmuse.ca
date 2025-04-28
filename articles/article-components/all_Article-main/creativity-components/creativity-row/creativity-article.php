@@ -1,6 +1,6 @@
 
 <article class="box post">
-										<a href="../index.html#creativity">
+										<a href="../index.php#creativity">
 											<img class="blog-image-article" src="../images/blog-images/creativity.png" alt="" />
 										</a>
 										<header>
@@ -193,7 +193,7 @@
 												source of your creative self.
 											</p>
 											<div class="backButton">
-												<a class="backButton" href="../index.html">Back</a>
+												<a class="backButton" href="../index.php#creativity">Back</a>
 											</div>
 										</section>
 									</article>

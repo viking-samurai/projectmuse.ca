@@ -7,17 +7,17 @@
 			<?php include '../components/top-button.php' ?>
 
 			<!-- Header -->
-				<?php include 'article-components/all_Article-header/headers/creativity-header.php' ?>
+			 	<?php include 'article-components/all_Article-header/headers/grinder-header.php' ?>
 
 			<!-- Main -->
-			 	<?php include 'article-components/all_Article-main/creativity-components/creativity-main.php' ?>
+			 	<?php include 'article-components/all_Article-main/grinder-components/grinder-main.php' ?>
 
 			<!-- Footer -->
 			 	<?php include 'article-components/all_Article-footer/article-footer.php' ?>
 
 		</div>
 
-		<!-- Scripts --><!-- Scripts -->
+		<!-- Scripts -->
 			<script src="../assets/js/jquery.min.js"></script>
 			<script src="../assets/js/jquery.dropotron.min.js"></script>
 			<script src="../assets/js/browser.min.js"></script>

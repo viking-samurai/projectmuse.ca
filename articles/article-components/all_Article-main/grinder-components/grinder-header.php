@@ -1,0 +1,1 @@
+<h1 style="margin: auto 8%; color: #12a8f2;">The Grinder</h1>

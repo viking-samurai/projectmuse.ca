@@ -1,4 +1,3 @@
-
         <div class="row">
             <div class="col-4 col-12-medium">
                 <section class="first" id="buildOffer" style="border-radius: 5px;">
