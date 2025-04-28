@@ -1,5 +1,5 @@
 <section class="box" id="self-publishing">
-	<a href="portfolio/selfPublishing-and-other.html" class="image">
+	<a href="portfolio/selfPublishing-and-other.php" class="image">
 		<img class="portfolio-image" src="images/portfolio-images/guerrilla-teacher.png" alt="" /></a>
 	<header>
 		<h3 class="portfolio-header">Self-Publishing and Other sites</h3>
@@ -19,7 +19,7 @@
 	</p>
 	<footer>
 		<ul class="actions">
-			<li><a href="portfolio/selfPublishing-and-other.html" class="button alt">Take a look.</a></li>
+			<li><a href="portfolio/selfPublishing-and-other.php" class="button alt">Take a look.</a></li>
 		</ul>
 	</footer>
 </section>

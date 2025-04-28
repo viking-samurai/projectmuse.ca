@@ -1,5 +1,5 @@
 <section class="box" id="commercial-and-industrial">
-	<a href="portfolio/commercial-and-industrial.html" class="image">
+	<a href="portfolio/commercial-and-industrial.php" class="image">
 		<img class="portfolio-image" src="images/portfolio-images/industrial-shop.png" alt="" /></a>
 	<header>
 		<h3 class="portfolio-header">Industrial and Commercial Sites</h3>
@@ -21,7 +21,7 @@
 	</p>
 	<footer>
 		<ul class="actions">
-			<li><a href="portfolio/commercial-and-industrial.html" class="button alt">Take a look.</a></li>
+			<li><a href="portfolio/commercial-and-industrial.php" class="button alt">Take a look.</a></li>
 		</ul>
 	</footer>
 </section>

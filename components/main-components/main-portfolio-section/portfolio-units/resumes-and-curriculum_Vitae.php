@@ -1,5 +1,5 @@
 <section class="box" id="resume-websites">
-	<a href="portfolio/resumés-and-curriculumVitae.html" class="image">
+	<a href="portfolio/resumés-and-curriculumVitae.php" class="image">
 		<img class="portfolio-image" src="images/portfolio-images/selfPortrait.png" alt="" /></a>
 	<header>
 		<h3 class="portfolio-header">Resumés and Curriculum Vitae</h3>
@@ -18,7 +18,7 @@
 	</p>
 	<footer>
 		<ul class="actions">
-			<li><a href="portfolio/resumés-and-curriculumVitae.html" class="button alt">Take a look.</a></li>
+			<li><a href="portfolio/resumés-and-curriculumVitae.php" class="button alt">Take a look.</a></li>
 		</ul>
 	</footer>
 </section>
