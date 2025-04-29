@@ -10,7 +10,7 @@
 				<?php include 'services-components/all_Services-header/headers/customBuilt-creations-header.php' ?>
 
 			<!-- Main -->
-			 	<?php include 'services-components/all_Services-main/custom_Built-creations-main.php' ?>
+			 	<?php include 'services-components/all_Services-main/custom_Built-creations/custom_Built-creations-main.php' ?>
 
 			<!-- Footer -->
 			 	<?php include 'services-components/all_Services-footer/services-footer.php' ?>
