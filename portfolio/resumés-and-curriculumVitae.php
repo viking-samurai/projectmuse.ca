@@ -1,174 +1,19 @@
 <!DOCTYPE HTML>
 <html>
-	<head>
-		<title>www.ProjectMuse.ca</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="../assets/css/main.css" />
-	</head>
+	<?php require '../partials/other-heads/article_Head.php' ?>
+
 	<body class="left-sidebar is-preload">
 		<div id="page-wrapper">
-			<div onclick="topFunction()" id="top-button" class="top-button">
-				<i class="fa fa-arrow-up top-button-text" aria-hidden="true"></i>
-				<p class="top-button-text">Top</p>
-			</div>
+			<?php include '../components/top-button.php' ?>
 
 			<!-- Header -->
-				<section id="header">
-
-					<!-- Logo -->
-					<a href=",,/index.html"><h1>Resumés and Curriculum Vitae</h1></a>
-
-					<!-- Nav -->
-						<nav id="nav">
-							<ul>
-								<li>
-									<a class="home-nav-button" href="../index.html">Home</a>
-								</li>
-								<li>
-									<a class="current" href="../index.html#intro">Services</a>
-									<ul>
-										<li class="main-nav-dropdown">
-											<a href="../services/custom-built-creations.html">Custom-built Creations</a>
-										</li>
-										<li class="main-nav-dropdown">
-											<a href="../services/seo-and-data-packages.html">SEO and Data Packages</a>
-										</li>
-										<li class="main-nav-dropdown">
-											<a href="../services/management-and-consulting.html">Management and Consulting</a>
-										</li>
-									</ul>
-								</li>
-								<li>
-									<a href="../index.html#main">Portfolio</a>
-									<ul>
-										<li class="main-nav-dropdown">
-											<a href="../index.html#blogs-and-small-business">Blogs and Small Business Sites</a>
-										</li>
-										<li class="main-nav-dropdown">
-											<a href="../index.html#commercial-and-industrial">Industrial and Commercial Sites</a>
-										</li>
-										<li class="main-nav-dropdown">
-											<a href="../index.html#resume-websites">Resumé Websites and Curriculum Vitae</a>
-										</li>
-										<li class="main-nav-dropdown">
-											<a href="../index.html#self-publishing">Self Publishing and Other Sites</a>
-										</li>
-									</ul>
-								</li>
-								<li>
-									<a href="../index.html#blog">Blog</a>
-									<ul>
-										<li class="main-nav-dropdown">
-											<a href="../index.html#persistence">Essay on Persistance</a>
-										</li>
-										<li class="main-nav-dropdown">
-											<a href="../index.html#creativity">Essay on Creativity</a>
-										</li>
-										<li class="main-nav-dropdown">
-											<a href="../index.html#grinding">Essay on Grinding</a>
-										</li>
-										<li class="main-nav-dropdown">
-											<a href="../index.html#economics">Essay on Economics</a>
-										</li>
-									</ul>
-								</li>
-								<li>
-									<a href="../index.html#footer">Contact</a>
-								</li>
-							</ul>
-						</nav>
-
-				</section>
+			 	<?php include 'portfolio-components/all_Portfolio-header/headers/resumes-and-curriculum_Vitae.php' ?>
 
 			<!-- Main -->
-				<section id="main">
-					<div class="row row-centering-tool">
-						<div class="col-8 col-12-medium col-12-small">
-							<section class="gallery-box" id="loveandchaos">
-								<h3 class="portfolio-page-header">Resumés and Curriculum Vitae</h3>
-								<div class="row">
-									<div class="col-4 col-6-medium col-12-small left-site-display">
-										<a href="https://viking-samurai.github.io/ryansResume/" target="_blank" class="image">
-											<img class="portfolio-image" src="../images/portfolio-images/portfolio-images-siteLink-images/resumePortrait.jpg" alt="" />
-										</a>
-										<ul class="actions" style="margin: 2em 0;">
-											<li><a href="https://viking-samurai.github.io/ryansResume/" target="_blank" class="button alt">Take a look.</a></li>
-										</ul>		
-									</div>
-									<div class="col-8 col-6-medium col-12-small">
-										<div class="gallery-box-text">											
-											<p class="portfolio-paragraph">My first ever gallery piece was this resumé website, and I'm still proud of it!  
-												Resumé websites are becoming more popular, as later generations seek a more adventurous lifestyle than their 
-												older generational counterparts.  That's all well and good, but the consequence of all of this adventure is 
-												that most resumés are now very difficult to reduce to two pages.  Resumé websites get around this restriction, 
-												allowing you to craft a more simple, two page resumé for individual jobs, that then transports the reader to 
-												the larger resumé through links.
-											</p>
-											
-											<p class="portfolio-paragraph">This website is designed and built using very simple web developmet techniques.  
-												It's just HTML, CSS, and vanilla JavaScript, and there are no large or custom features that significantly 
-												reduce it's loading speed.  It's so simple, in fact, that it pairs well with some of my courses on website 
-												and product management, allowing you to learn some key components of web development and design, while you 
-												learn to assert yourself professionally, too.
-											</p>
-										</div>
-									</div>
-								</div>
-							</section>
-						</div>
-					</div>
-				</section>
+			 	<?php include 'portfolio-components/all_Portfolio-main/resumes-and-CV/resumes-and-CV-row/resumes-and-CV-description.php' ?>
 
 			<!-- Footer -->
-				<section id="footer">
-					<div class="container">
-						<div class="row">
-							<div class="col-8 col-12-medium">
-								<section id="contact-section">
-									<header>
-										<h2>Contact Information</h2>
-									</header>
-									<ul class="contact">
-										<li>
-											<h3>Social</h3>
-											<ul class="social">
-												<li style="padding: 0;"><a class="icon brands fa-linkedin-in" target="_blank" href="https://www.linkedin.com/in/ryan-degen-shaman-at-large"></a></li>
-												<li style="padding: 0;"><a class="icon brands fa-github" target="_blank" href="https://github.com/viking-samurai/viking-samurai/blob/main/README.md"></a></li>
-											</ul>
-										</li>
-										<li>
-											<h3>Hours</h3>
-											<p style="max-width: 16rem">
-												<a href="../index.html">ProjectMuse.ca</a> is available for consultations throughout 
-												the week and weekends, from 9am to 9pm.</p>
-										</li>
-										<li>
-											<h3>E-mail</h3>
-											<p><a href="mailto:info@projectmuse.ca">info@projectmuse.ca</a></p>
-										</li>
-										<li>
-											<h3>Phone</h3>
-											<p><a href="tel:8257122128">(825) 712-2128</a></p>
-										</li>
-									</ul>
-								</section>
-							</div>
-							<div class="col-4 col-12-medium">
-								<section>
-									<header>
-										<h2>Thanks for visiting!</h2>
-									</header>
-									<a href="#" class="image featured"><img class="footer-image-index" src="../images/secondaryBackground.png" alt="" /></a>
-									<p>
-										<a href="../index.html">ProjectMuse.ca</a> is a Calgary-based company dedicated to making people's 
-										lives easier, while making the Internet a more beautiful place.  If you have a creative idea that you want help 
-										developing, <a href="mailto:info@projectmuse.ca">reach out</a>!</p>
-								</section>
-							</div>
-						</div>
-					</div>
-				</section>
+			 	<?php include 'portfolio-components/all_Portfolio-footer/portfolio-footer.php' ?>
 
 		</div>
 
