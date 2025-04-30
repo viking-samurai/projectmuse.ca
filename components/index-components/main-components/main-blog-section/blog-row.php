@@ -2,7 +2,7 @@
 	<!-- Article on persistance -->
 	<div class="col-6 col-12-small" id="persistence">
 		<section>
-			<?php include 'blog-units/persistance.php' ?>
+			<?php include 'blog-units/persistence.php' ?>
 		</section>
 	</div>
 	<!-- Article on creativity -->										

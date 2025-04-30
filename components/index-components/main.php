@@ -2,6 +2,15 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
+			<!-- Services -->
+   				<section id="intro" class="container">
+        			<?php include 'main-components/main-services-section/services-header.php' ?>
+        			<?php include 'main-components/main-services-section/services-row.php' ?>
+        			<?php include 'main-components/main-services-section/services-footer.php' ?>
+    			</section>
+			</div>
+
+			<div class="col-12">
 			<!-- Portfolio -->
 				<section id="portfolio">
 					<?php include 'main-components/main-portfolio-section/portfolio-header.php' ?>
