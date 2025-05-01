@@ -1,6 +1,6 @@
 
 <article class="box post">
-								<a href="#" class="image featured"><img src="../images/services-images/SEO-and-data.png" alt="" /></a>
+								<a href="#" class="image featured"><img src="../../images/services-images/SEO-and-data.png" alt="" /></a>
 								<header>
 									<h2 style="color: #12a8f2;">Building by the Numbers</h2>
 								</header>
