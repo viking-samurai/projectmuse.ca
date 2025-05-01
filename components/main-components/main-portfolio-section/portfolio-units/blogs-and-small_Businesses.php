@@ -1,5 +1,5 @@
 <section class="box" id="blogs-and-small-business">
-	<a href="portfolio/blogs-and-smallBusinesses.php" class="image">
+	<a href="pages/portfolio-pages/blogs-and-small_Business.php" class="image">
 		<img class="portfolio-image" src="images/portfolio-images/single-storefront.png" alt="" /></a>
 	<header>
 		<h3 class="portfolio-header">Blogs and Small Business Sites</h3>
@@ -21,7 +21,7 @@
 	</p>
 	<footer>
     	<ul class="actions">
-            <li><a href="portfolio/blogs-and-smallBusinesses.php" class="button alt">Take a look.</a></li>
+            <li><a href="pages/portfolio-pages/blogs-and-small_Business.php" class="button alt">Take a look.</a></li>
 		</ul>
 	</footer>
 </section>

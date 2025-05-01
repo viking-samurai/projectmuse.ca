@@ -1,4 +1,4 @@
-<a href="pages/article-pages/persistence-article.php" class="image featured">
+<a href="pages/article-pages/persistence-page.php" class="image featured">
 	<img class="blog-image-index" src="images/blog-images/persistence.png" alt="" /></a>
 <header>
 	<h3 class="blog-header">Persistence throughout the Journey</h3>
@@ -9,7 +9,7 @@
 	oblivion.  But that goal is worth it, or else the journey would never happen...</p>
 <footer>
 	<ul class="actions">
-		<li><a href="pages/article-pages/persistence-article.php" class="button icon solid fa-file-alt">Continue Reading</a></li>
+		<li><a href="pages/article-pages/persistence-page.php" class="button icon solid fa-file-alt">Continue Reading</a></li>
 		<li style="display: none;"><a href="#" class="button alt icon solid fa-comment">33 comments</a></li>
 	</ul>
 </footer>

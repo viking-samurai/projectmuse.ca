@@ -7,11 +7,11 @@
 			<?php include '../../components/top-button.php' ?>
 
 			<!-- Header -->
-			 	<?php include '../../components/page-components/portfolio-components/portfolio-headers/blogs-and-small_Business-header.php' ?>
-                            
+			 	<?php include '../../components/page-components/article-components/article-headers/persistence-header.php' ?>
+
 			<!-- Main -->
-			 	<?php include '../../components/page-components/portfolio-components/portfolio-mains/blogs-and-small_Business-main.php' ?>
-                    
+			 	<?php include '../../components/page-components/article-components/article-mains/persistance-main.php' ?>
+
 			<!-- Footer -->
 				<?php include '../../components/page-components/second-page-footer.php' ?>
 

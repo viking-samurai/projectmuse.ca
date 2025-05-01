@@ -7,13 +7,13 @@
 			<?php include 'components/top-button.php' ?>
 
 			<!-- Header -->
-			 	<?php include 'components/header.php' ?>
+			 	<?php include 'components/header-section.php' ?>
 
 			<!-- Main -->
-			 	<?php include 'components/main.php' ?>
+			 	<?php include 'components/main-section.php' ?>
 
 			<!-- Footer -->
-			 	<?php include 'components/footer.php' ?>
+			 	<?php include 'components/footer-section.php' ?>
 
 		</div>
 
