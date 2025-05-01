@@ -1,4 +1,4 @@
-<a href="articles/theEconomicsOfTruthiness.php" class="image featured">
+<a href="pages/article-pages/truthiness-article.php" class="image featured">
 	<img class="blog-image-index" src="images/blog-images/altruism.png" alt="" /></a>
 <header>
 	<h3 class="blog-header">The Economics of Truthiness</h3>
@@ -10,7 +10,7 @@
 </p>
 <footer>
 	<ul class="actions">
-		<li><a href="articles/theEconomicsOfTruthiness.php" class="button icon solid fa-file-alt">Continue Reading</a></li>
+		<li><a href="pages/article-pages/truthiness-article.php" class="button icon solid fa-file-alt">Continue Reading</a></li>
 		<li style="display: none;"><a href="#" class="button alt icon solid fa-comment">33 comments</a></li>
 	</ul>
 </footer>
