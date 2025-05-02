@@ -1,1 +1,0 @@
-<a href="../index.html"><h1>Resumés and Curriculum Vitae</h1></a>

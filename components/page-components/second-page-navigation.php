@@ -7,13 +7,13 @@
 			<a class="current" href="../../index.php#intro">Services</a>
 			<ul>
 				<li class="main-nav-dropdown">
-					<a href="../../services/custom-built-creations.php">Custom-built Creations</a>
+					<a href="../../pages/services-pages/custom_Built-creations.php">Custom-built Creations</a>
 				</li>
 				<li class="main-nav-dropdown">
-					<a href="../../services/seo-and-data-packages.php">SEO and Data Packages</a>
+					<a href="../../pages/services-pages/SEO-and-data.php">SEO and Data Packages</a>
 				</li>
 				<li class="main-nav-dropdown">
-					<a href="../../services/management-and-consulting.php">Management and Consulting</a>
+					<a href="../../pages/services-pages/management-and-consulting.php">Management and Consulting</a>
 				</li>
 			</ul>
 		</li>

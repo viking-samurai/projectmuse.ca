@@ -1,1 +1,0 @@
-<a href="../index.html"><h1>Management and Consulting</h1></a>
