@@ -5,50 +5,57 @@
     <lastmod>2025-04-30</lastmod>
   </url>  
 
+
   <url>
-    <loc>https://www.projectmuse.ca/articles/developingYourCreativeSelf.html</loc>
+    <loc>https://www.projectmuse.ca/pages/article-pages/persistence-page.php</loc>
     <lastmod>2025-04-30</lastmod>
   </url>
   <url>
-    <loc>https://www.projectmuse.ca/articles/persistenceThroughoutTheJourney.html</loc>
+    <loc>https://www.projectmuse.ca/pages/article-pages/creativity-page.php</loc>
     <lastmod>2025-04-30</lastmod>
   </url>
   <ul>
-    <loc>https://www.projectmuse.ca/articles/theEconomicsOfTruthiness.html</loc>
+    <loc>https://www.projectmuse.ca/pages/article-pages/grinder-page.php</loc>
     <lastmod>2025-04-30</lastmod>
   </url>
   <url>
-    <loc>https://www.projectmuse.ca/articles/theGrinder.html</loc>
+    <loc>https://www.projectmuse.ca/pages/article-pages/truthiness-page.php</loc>
     <lastmod>2025-04-30</lastmod>
   </url>
+
+  <url>
+    <loc>https://www.projectmuse.ca/pages/portfolio-pages/blogs-and-small_Businesses.php</loc>
+    <lastmod>2025-04-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.projectmuse.ca/pages/portfolio-pages/commercial-and-industrial.html</loc>
+    <lastmod>2025-04-30</lastmod>
+  </url>
+  <ul>
+    <loc>https://www.projectmuse.ca/pages/portfolio-pages/resumes-and-CVs.php</loc>
+    <lastmod>2025-04-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.projectmuse.ca/pages/portfolio-pages/self_Publishing-and-others.php</loc>
+    <lastmod>2025-04-30</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.projectmuse.ca/pages/services-pages/custom_Built-creations.php</loc>
+    <lastmod>2025-04-30</lastmod>
+  </url>
+  <ul>
+    <loc>https://www.projectmuse.ca/pages/services-pages/SEO-and-data.php</loc>
+    <lastmod>2025-04-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.projectmuse.ca/pages/services-pages/management-and-consulting.php</loc>
+    <lastmod>2025-04-30</lastmod>
+  </url>
+
   
   <url>
-    <loc>https://www.projectmuse.ca/portfolio/blogs-and-smallBusinesses.html</loc>
-    <lastmod>2025-04-30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.projectmuse.ca/portfolio/commercial-and-industrial.html</loc>
-    <lastmod>2025-04-30</lastmod>
-  </url>
-  <ul>
-    <loc>https://www.projectmuse.ca/portfolio/resumés-and-curriculumVitae.html</loc>
-    <lastmod>2025-04-30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.projectmuse.ca/portfolio/selfPublishing-and-other.html</loc>
-    <lastmod>2025-04-30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.projectmuse.ca/services/custom-built-creations.html</loc>
-    <lastmod>2025-04-30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.projectmuse.ca/services/management-and-consulting.html</loc>
-    <lastmod>2025-04-30</lastmod>
-  </url>
-  <ul>
-    <loc>https://www.projectmuse.ca/services/seo-and-data-packages.html</loc>
+    <loc>https://www.projectmuse.ca/assets/css/main.css</loc>
     <lastmod>2025-04-30</lastmod>
   </url>
 </urlset>
