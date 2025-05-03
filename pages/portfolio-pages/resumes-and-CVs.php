@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-	<?php require '../../partials/other-heads/article_Head.php' ?>
+	<?php require '../../partials/other-heads/portfolio_Head.php' ?>
 	
 	<body class="right-sidebar is-preload">
 		<div id="page-wrapper">
