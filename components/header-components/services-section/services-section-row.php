@@ -32,13 +32,13 @@
             </div>
             <div class="col-4 col-12-medium">
                 <section class="last" id="courseOffer" style="border-radius: 5px;">
-                    <a href="pages/services-pages/maintenance-and-consulting.php"><i class="icon solid featured alt2 fa-star"></i>
+                    <a href="pages/services-pages/management-and-consulting.php"><i class="icon solid featured alt2 fa-star"></i>
                     <header>
                         <h2>Expert Guidance for <br />Seamless Success</h2>
                     </header></a>
                     <p class="service-paragraph" style="margin: 0 .5em;">Custom web applications, while powerful, 
                         often require specialized expertise for effective planning, deployment, and long-term 
-                        management. Project Muse's <a href="pages/services-pages/maintenance-and-consulting.php">
+                        management. Project Muse's <a href="pages/services-pages/management-and-consulting.php">
                         consulting and management packages</a> provide the skilled guidance you need to seamlessly 
                         integrate, maintain, and optimize your web applications. Ensure smooth operations and empower 
                         your team with expert support.

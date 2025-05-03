@@ -5,7 +5,7 @@
 	<ul class="actions" style="margin: 2em 0;">
 		<li><a href="https://viking-samurai.github.io/ryansResume/" target="_blank" class="button alt">Take a look.</a></li>
 	</ul>
-	<div class="backButton" style="margin: auto 0;">
+	<div class="backButton">
 		<a class="backButton" href="../../index.php#resume-websites">Back</a>
 	</div>	
 </div>

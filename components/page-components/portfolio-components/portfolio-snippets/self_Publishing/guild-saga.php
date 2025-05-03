@@ -5,7 +5,7 @@
 	<ul class="actions" style="margin: 1em 0;">
 		<li><a href="https://www.guildsaga.com/" target="_blank" class="button alt">Take a look.</a></li>
 	</ul>
-	<div class="backButton" style="margin: auto 0;">
+	<div class="backButton">
 		<a class="backButton" href="../../index.php#commercial-and-industrial">Back</a>
 	</div>	
 </div>

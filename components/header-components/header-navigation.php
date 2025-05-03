@@ -44,7 +44,7 @@
                     <a href="index.php#grinding">Essay on Grinding</a>
                 </li>
                 <li class="main-nav-dropdown">
-                    <a href="index.php#economics">Essay on Economics</a>
+                    <a href="index.php#truthiness">Essay on Economics</a>
                 </li>
             </ul>
         </li>
