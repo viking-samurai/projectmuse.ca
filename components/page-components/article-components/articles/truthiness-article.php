@@ -1,5 +1,5 @@
 <article class="box post">
-										<a href="../../index.php#economics">
+										<a href="../../index.php#truthiness">
 											<img class="blog-image-article" src="../../images/blog-images/altruism.png" alt="" />
 										</a>
 										<header>
@@ -273,7 +273,7 @@
 												when everyone is honestly selling high, well, everyone just wins.  Cheers!
 											</p>
 											<div class="backButton">
-												<a class="backButton" href="../../index.php#economics">Back</a>
+												<a class="backButton" href="../../index.php#truthiness">Back</a>
 											</div>
 										</section>
 									</article>
