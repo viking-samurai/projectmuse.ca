@@ -17,11 +17,12 @@
 	<header>
 		<h3>About my tech stack</h3>
 	</header>
-	<p class="">The MERN stack, written in a PHP framework, is a modern technology stack with a twist.  The MERN 
-		stack is an adaptable tech stack that works well for all web applications, but especially well for applications 
-		where the owner expects substantial user traffic.  PHP, on the other hand, is a classic back-end language, 
-		noted for its security, speed, and greater synergy with modern SEO and data manipulation.  Websites built 
-		in this style enjoy both speed and scalability, growing effortlessly with your business.
+	<p class="">The MERN stack, written in a PHP framework, is a modern technology stack with a twist.  While 
+		the MERN stack is an adaptable, scalable tech stack that works well for all web applications, it works 
+		especially well for applications where the owner expects substantial daily user traffic.  PHP, on the 
+		other hand, is a classic, back-end language, noted for its security, speed, and greater synergy with 
+		modern SEO and data management practices.  Websites built in this style enjoy both speed and scalability, 
+		growing effortlessly with your business.
 	</p>
 	<footer>
 		<a href="https://viking-samurai.github.io/ryansResume/" target="blank" class="button alt">See More</a>
