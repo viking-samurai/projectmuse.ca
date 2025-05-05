@@ -26,7 +26,7 @@
 	</p>
 	<section>
 		<header>
-			<h3><span style="color: #12a8f2;">Book and Appointment</span></h3>
+			<h3><span style="color: #12a8f2;">Book an Appointment</span></h3>
 		</header>
 		<p class="main-offers-paragraph">Contact me for details, or to book an appointment.</p>
 	</section>
