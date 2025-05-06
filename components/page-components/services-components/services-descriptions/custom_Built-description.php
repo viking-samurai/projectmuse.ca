@@ -18,7 +18,7 @@
 	</p>
 	<section>
 		<header>
-			<h3>Step 1: <span style="color: #12a8f2;">Designing your Website</span></h3>
+			<h3>Step 1: <span style="color: #12a8f2;">Planning and Design</span></h3>
 		</header>
 		<p class="main-offers-paragraph">
 			A proper design for your new website is an essential component for its overall success.  And a design 
@@ -41,7 +41,7 @@
 	</section>
 	<section>
 		<header>
-			<h3>Step 2: <span style="color: #12a8f2;">Developing your Website</span></h3>
+			<h3>Step 2: <span style="color: #12a8f2;">Development</span></h3>
 		</header>
 		<p class="main-offers-paragraph">
 			The second stage of the web development process is to template and build your website, at your domain.  
@@ -59,7 +59,7 @@
 	</section>
 	<section>
 		<header>
-			<h3>Step 3: <span style="color: #12a8f2;">Programming your Website</span></h3>
+			<h3>Step 3: <span style="color: #12a8f2;">Programming</span></h3>
 		</header>
 		<p class="main-offers-paragraph">
 			The third step to developing your website is to light it all up.  In this step, I handle all of the 
