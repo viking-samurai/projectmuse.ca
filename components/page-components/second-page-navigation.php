@@ -1,9 +1,6 @@
 <nav id="nav">
 	<ul>
 		<li>
-			<a class="home-nav-button" href="../../index.php">Home</a>
-		</li>
-		<li>
 			<a class="current" href="../../index.php#intro">Services</a>
 			<ul>
 				<li class="main-nav-dropdown">
