@@ -6,101 +6,70 @@
 	</header>
 	<h4 class="main-offers-paragraph"><em>The three-step process</em></h4><br />
 	<p class="main-offers-paragraph">
-		At ProjectMuse.ca, I've learned that the best way to build a website from scratch is by following a
-		simple, three-step process to take a customer from an idea to a finished project.  This revelation came
-		about because modern websites are deceptively large projects that require significant planning, as well
-		as intense scrutiny all along the way.  The three-step process	is designed to engage with the customer 
-		in a number	of different ways to help bring about ideas and discuss their viability, without backtracking 
-		and redoing	steps.  The three step process looks like this:  <u><strong>Step 1</strong></u>: Planning and 
-		designing your website.  <u><strong>Step 2</strong></u>: Framing and building your website.  
-		<u><strong>Step 3</strong></u>: Filling and proofing your website.  Following this process allows us to 
-		work together in smaller sections at a time, while always maintaining the larger picture of what we're 
-		building.
-	</p>
-	<p class="main-offers-paragraph">
-		To develop a website with me, I require the following of you or your company: <b>1: </b>A functioning 
-		business plan. <b>2: </b>Access to a chatroom application, such as Discord or Slack. <b>3: </b>An active 
-		domain.  <b>4: </b>At least three months time before any hard deadlines.  It is possible to avoid some 
-		steps, particularly in scenarios where a design	has already been issued, or if there is	already some type 
-		of framework in place, but as a general rule, it's	a three step process, and I intend to follow all 
-		three steps.
+		At Project Muse, I've learned that the best way to build a website or a web application from scratch 
+		is by following a simple, three-step process to take the customer from their idea, to a finished project.  
+		Modern websites and applications are large projects that require significant planning.  The three-step 
+		process is designed to engage with the customer about their ideas, and their viability, without backtracking, 
+		and redoing steps.  The three step process looks like this:  <u><strong>Step 1</strong></u>: Planning 
+		and designing your website.  <u><strong>Step 2</strong></u>: Framing and filling your website.  
+		<u><strong>Step 3</strong></u>: Programming and databasinging your website.  Following this process 
+		allows us to work together in smaller sections at a time, while always maintaining the larger picture 
+		of what we're building.
 	</p>
 	<section>
 		<header>
-			<h3>Step 1: <span style="color: #12a8f2;">Planning and Designing your Website</span></h3>
+			<h3>Step 1: <span style="color: #12a8f2;">Designing your Website</span></h3>
 		</header>
 		<p class="main-offers-paragraph">
-			A proper design for your new website is an essential component for its overall success.  Are you 
-			looking	for a single page application (SPA), or a multi-page application (MPA)?   Will it require
-			a backend, or just a contact page?  Are you hoping to merely draw insight from data, or does your 
-			project	revolve around extracting data?  Do you like the colour blue, and does it fit your overall 
-			theme?	These are all questions	that come up in the design process, and it's important that we 
-			have a solid understanding of both your preferences and your goals before we begin.  Note, at 
-			this stage, I advise all clients to focus on the design more than the auxillaries, such as 
-			logos and marketing slogans.  I have a team of professionals to help with that once we get going, 
-			but it's always better to work from more information than less information, and that comes from 
-			planning.
+			A proper design for your new website is an essential component for its overall success.  And a design 
+			that isn't backed by a functioning business or website plan is a disaster waiting to happen.  Are you 
+			looking	for a single page application (SPA), or a multi-page application (MPA)?   Will it require a 
+			back-end, or just a contact page?  Do you have a prefered colour pattern, and does it fit with your 
+			overall brand?  These are questions	that will come up in the planning and design process, and it's 
+			important that we have a solid answer to these questions, as well as both your website preferences, 
+			and your business goals, before we begin development.  This strategy helps prevent costly issues 
+			from developing by planning for different opportunities early into the build.
 		</p>
 		<p class="main-offers-paragraph">
-			At this stage, it is essential that you have at least a simple business plan as well as access 
-			to a chatroom service, such as Discord or Slack.  Purchasing a domain and the three month 
-			timeframe are more essential once the build process actually starts.  It takes a while to 
-			fully envision what you want to accomplish with your website.  I'll need to understand both 
-			your business objectives as well as get a feel for your design preferences before we dive in.
+			At the end of this stage, the customer will have a functioning website or application blueprint, which 
+			will inform the website's design, even before the wireframe is developed.  This blueprint will be shared 
+			between the developer and the customer, and serve as an organic document, informing the website or 
+			application's development.  Furthermore, the customer will receive a wireframe of the web applications's 
+			initial design, presented with Github Pages.  This wireframe will be a coded version of the website, but 
+			in Latin, and using only stock images.
 		</p>
 	</section>
 	<section>
 		<header>
-			<h3>Step 2: <span style="color: #12a8f2;">Framing and Building your Website</span></h3>
+			<h3>Step 2: <span style="color: #12a8f2;">Developing your Website</span></h3>
 		</header>
 		<p class="main-offers-paragraph">
-			The second stage of the web constuction process is to frame and build your website on a live 
-			server.  I prefer to use Github for the framing and building of a website, because I find 
-			it's the easiest way to access a site on the Internet without significant exposure for either 
-			the customer or myself.  All you need in order for me to start this process is access to 
-			a laptop and a cellphone, as those are the two main types of media from which most public 
-			websites are accessed.  As I'm working, I send you live updates of your project to ensure 
-			that your design is mapping into reality the way that you intend it to. 
+			The second stage of the web development process is to template and build your website, at your domain.  
+			To do this, first, I build the design from Step 1, described above, using PHP for server-side scripting, 
+			at your chosen domain.  Next, once the first version of your website is completed, I develop the content 
+			for your website, starting with the words.  Once I have the first pass written into the website, I develop 
+			and insert its other media, such as images and videos.  As I'm working, I send you live updates of your 
+			project to ensure that your design is mapping into reality the way that you intend it to.  At the end 
+			of this stage, the customer will have a completed website, at the domain of their chosing.  This website 
+			will be edited, and from this edit, an SEO profile will be started, which the customer may choose to 
+			continue by purchasing an <a href="../../pages/services-pages/SEO-and-data.php">SEO package</a>.
 		</p>
 		<p class="main-offers-paragraph">
-			At this stage we also start to develop some of the content that will go into the website, 
-			particularly your company logo, company imagery, and any major branding or marketing 
-			slogans that you intend to see adopted.  During this process, most of the written content 
-			of the site will be filled out using filler text in latin,	and most of the graphics 
-			and imagery will be stock photos and images, specifically intended to take up space, 
-			so that we get a feel for the layout and appearence of the site before diving into 
-			the content properly.  If you happen to have some content or photos already, let me know; 
-			but for the most part, these are not necessary	until the final step, and staying too 
-			focused on earlier versions of your intentions can lead to major flaws in the completion 
-			of your project by trying to fit earlier ideas and later concepts together.  I also 
-			strongly advise against outsourcing content and graphics on your own, as this can lead 
-			to cost run-ups with other companies holding your work hostage to try and claim a bigger 
-			piece of the pie.  I've seen it happen.
 		</p>
 	</section>
 	<section>
 		<header>
-			<h3>Step 3: <span style="color: #12a8f2;">Filling and Proofing your Website</span></h3>
+			<h3>Step 3: <span style="color: #12a8f2;">Programming your Website</span></h3>
 		</header>
 		<p class="main-offers-paragraph">
-			The third step to developing your website is to fill it in with appropriate content 
-			and graphics.  For this, I have a range of preferred graphics designers and artists 
-			that I outsource to, depending on the particular style of your	website.  Animé specialists, 
-			text and graffiti artists, biker themes, heavy country, light country... You name it.  
-			The reason why I do this is to pair the right artist with the right website and just 
-			let them go.  When it comes to graphics and artwork, I'm good, but I'm not great; 
-			and I'm not afraid to admit that.  In a city like Calgary, there's almost always 
-			a specialist for what you want chargin a competitive price, and it's my job to find 
-			that person and link them up with your project to create a great website.  Trust 
-			the process for a great result.
-		</p>
-		<p class="main-offers-paragraph">
-			What I do manage myself at this stage is all of the writing, as well as the search engine 
-			optimization.  I've been a writer since University, and webwork is my preferred medium 
-			for this talent.  I can take on any style, with any voice, and produce fantastic results.  
-			I also start to plan and log what I do, so that I can use this information once I begin 
-			to develop your own, personal SEO portfolio.  We can use this information down the road 
-			to keep your website as high on Google's search results as possible in the years to come.
+			The third step to developing your website is to light it all up.  In this step, I handle all of the 
+			programming and data logic that will be needed for your website to perform optimally, and as intended.  
+			This includes JavaScript and form handling on the front-end, so that users can interact with your website 
+			or web application the way it was intended, as well as connecting your website or application to a database, 
+			and then writing the logic needed to handle the data from daily user interactions, as well as general traffic.  
+			This data can be accessed by you at at time, or leveraged into actionable business intelligence by purchasing 
+			a <a href="../../pages/services-pages/SEO-and-data.php">data package</a>, and letting Project Muse analyze 
+			your data for you.
 		</p>
 		<div class="backButton" style="margin: auto 0;">
 			<a class="backButton" href="../../index.php#intro">Back</a>
