@@ -6,23 +6,21 @@
 	</header>
 	<h4 class="main-offers-paragraph"><em>Need a hand with that...?</em></h4><br />
 	<p class="main-offers-paragraph">
-		Digital and Internet technologies are some of the fastest growing and most complex 
-		fields of our times, and with the rise of artificial intelligece and other machine 
-		learning tools taking over our offices and workspaces, there is no end in sight!  
-		As the owner of <a href="../../index.php">Project Muse</a>, a digital tools and services 
-		provider, I take my role as a leader in digital technologies very seriously, and I have 
-		a number of management options and consulting packages based around teaching and guiding 
-		businesses into full-stack web development with ease.
+		Digital and Internet technologies are some of the fastest growing and most complex fields of our times, 
+		and with the rise of artificial intelligece and other machine learning tools taking over our offices 
+		and workspaces, there is no end in sight!  As the owner of <a href="../../index.php">Project Muse</a>, 
+		a digital tools and services provider, I take my role as a leader in digital technologies very seriously, 
+		and I have a number of management and consulting packages based around teaching and guiding businesses 
+		into full-stack web development with ease.  No matter how simple a website or application your business 
+		requires, implementing anything of a web-based nature at scale is a complex process that can be done poorly,
+		and lead to disastrous consequences as a result.
 	</p>
 	<p class="main-offers-paragraph">
-		No matter how complex a web application your business requires, if I built it for you,
-		then I intended for you to use it.  That's how come I offer management and consulting 
-		packages based around the digital technologies and services that I provide.  If you, 
-		or the people that you intend to use a piece of technology that I built don't understand 
-		how to use it to it's fullest capacity, then <a href="../../index.php#footer">contact me</a>, 
-		and I will set up a management program designed to fullfil the requirements of your business, 
-		while simultaneously teaching you how to use your new technology.  Or, if third party management 
-		doesn't suite your particular business needs, then consulting options are available as well.
+		Product management and consulting packages based around websites and web applications designed and developed 
+		by Project Muse, are built to succeed.  If you, or the people that you intend to use a piece of technology 
+		that I built don't understand how to use it to it's fullest capacity, then <a href="../../index.php#footer">
+		contact me</a>, and together we will build the perfect management or consulting package to guarantee that 
+		your project rolls out successfully.
 	</p>
 	<section>
 		<header>
