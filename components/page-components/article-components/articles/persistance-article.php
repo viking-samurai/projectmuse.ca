@@ -1,0 +1,167 @@
+<article class="box post">
+	<a href="../../index.php#persistence">
+		<img class="blog-image-article" src="../../images/blog-images/persistence.png" alt="" />
+	</a>
+	<header>
+		<h2>Persistence throughout the Journey</h2>
+	</header>
+	<h4>A look at how challenging the entrepreneur's path can actually be.</h4><br />
+	<p class="blog-paragraph">
+		I once watched a podcast by Dr. Jordan Peterson on YouTube.  I honestly couldn’t tell you which one anymore, as it’s 
+		been too long since I saw it; but in it, he makes mention to the idea that you wouldn’t necessarily want Moses, the 
+		biblical persona, hanging out in the Garden of Eden.  This makes sense.  It’s not that he wouldn’t be allowed, and 
+		certainly not to poke holes into any biblical references; but simply: Moses had to have been a very hard man.  This 
+		is a guy who stood up to a Pharaoh on multiple occasions, and who oversaw crossing the desert for 40 years to help 
+		save the Isrealites.  Even if he did make it all the way to Eden, do you really think he’d find his inner-peace there?  
+		I don’t.
+	</p>
+	<p class="blog-paragraph">
+		The story of the Exodus in the Bible is a direct reference to leadership, constitution, forbearance, and a dozen other 
+		high-virtues, exemplified by one absolute renegade named Moses.  It also fits the framework of the ‘Hero’s Journey’, 
+		a type of storytelling template that involves a hero who goes on a quest, is victorious in a decisive encounter, and 
+		then returns home from the quest with new knowledge to share.  I find entrepreneurship follows similar 
+		patterns as well, and this is what I wanted to try and explain.  Not to make light, but it isn’t too hard to see the 
+		parallels even between Moses’s journey, and what everyday entrepreneurs actually go through.  Moses sided with the 
+		Isrealites, and then ended up going to great lengths to free them from persecution, the same as an entrepreneur sees 
+		a need for social change in their own environment, and then goes to great lengths to bring it about.  Make no mistake, 
+		what an entrepreneur does for a living is fraught with peril, and potentially quite dangerous, either economically 
+		(monetarily), or, in other senses, it could be literally dangerous, too.  But to the entrepreneur there is always a 
+		need, or else they wouldn’t have taken up the cause in the first place.
+	</p>
+	<p class="blog-paragraph">
+		Before continuing, I have to pause to admit something here: I’m not a religious person, and this is not an article 
+		about Moses, per se.  But I like the story of The Exodus for explaining entrepreneurship, because I find that there 
+		are a number of parallels between the idea of parting waters, crossing a desert, and then proclaiming a new way from 
+		atop a mountain, and what the process of developing a new business actually looks like.  In fact, I would even suggest 
+		that parting the waters, crossing a desert, and then climbing a mountain are, in a metaphorical sense, the three main 
+		stints of an entrepreneurial journey in and of itself.  Let me explain.
+	</p>
+	<section>
+		<header>
+			<h3>Parting the Waters</h3>
+		</header>
+		<p class="blog-paragraph">
+			If you’re familiar with the story of The Exodus, then you’re aware that Moses ‘parted the sea’, allowing his people 
+			to cross, and then, once his people had crossed, he let the sea come crashing down on the Pharaoh’s army.  In this 
+			sense, the sea serves as a metaphor for a barrier, with something trapped away on the other side.  It takes conviction 
+			to see through that barrier, which can come in a number of different forms.  For Moses, conviction was represented by 
+			an act of God, to create a path.  An entrepreneur today may not need to go to such extremes, but the metaphor still 
+			stands.  Like a dog pacing behind a fence, an entrepreneur knows that there are two choices: to stay, or to commit.  
+			Once committed, it can be very difficult to disengage.
+		</p>
+		<p class="blog-paragraph">
+			The water, as a type of barrier, can be representative of any number of different situations, and is almost never 
+			a fixed point.  Rather, it is the ‘rock and the hard place’ metaphor, where surviving death is suddenly a superior 
+			option to whatever is the current norm.  It serves as a type of gate in the sense that it must be crossed, yet it 
+			is not immediately apparent how to cross it.  For most people, crossing the water is simply the knowledge that if 
+			you succeed at your entrepreneurial endeavour, then life will be better.  We could get into more serial entrepreneurs 
+			as well, and the calculations factored into making this decision as a way of life, but it’s the same fundamental 
+			principle for them as well.  What’s crucial to realize is that this is the first fork in the journey, and that 
+			choosing to go forward at this juncture makes it much harder to turn back.  At this point, as an entrepreneur, 
+			you’re either committed to the idea that whatever’s on the other side of the gate is better than whatever you 
+			currently have, or else you shouldn’t try to cross the gate, as you may not be able to turn back.
+		</p>
+	</section>
+	<section>
+		<header>
+			<h3>Crossing the Desert</h3>
+		</header>
+		<p class="blog-paragraph">
+			The fundamental idea of crossing a desert is the idea of being forced to adapt.  Whether this is learning something 
+			new, or simply coming into an aggressive market; the point is to recognize that you have entered into a very harsh 
+			climate, one that you may or may not be native to, and you’ll just have to deal with it.  I want to point out here 
+			as well that Moses might well have known that there was a desert beyond the sea, and how hard it would actually be 
+			to survive.  I bring this up because you should be aware of your own deserts, too.  Unless you’re a serial 
+			entrepreneur, or else actively working in the field that you’re moving into, then chances are, you’ll not only have 
+			to part the water, but that you’ll also have to learn how to survive on the other side as well.  This caveat should 
+			not be taken for granted.  This can be extremely challenging, as you’ve just left behind everything you know on the 
+			promise of something better, and now you just have to figure it out, likely with less than what you started with.
+		</p>
+		<p class="blog-paragraph">
+			To me, the most challenging part of surviving the desert is the need to consume, especially when you may not even 
+			be aware of either what to consume, nor how to consume it.  I think one of the most simple traps here is that you 
+			had the idea, and you parted the waters just fine, and now that the gate lies open, it’s like it’s so open that 
+			you don’t even know what to do about it.  Imagine looking back at the Pharaoh’s army, defeated, and then looking 
+			ahead at so much sand and horizon that it was nothing short of disorienting.  You won,  but now, what did you win?  
+			The key at this stage is simply learning to survive.  I remember while I was going to school, a friend of mine 
+			asked the rhetorical question of how do you eat an elephant?  The answer is one bite at a time, and that’s how 
+			you survive a desert, too.  You take it one day at a time, until you learn to build.  Once you start to build, you 
+			can start to store, and then you’re learning to cope.
+		</p>
+	</section>
+	<section>
+		<header>
+			<h3>Climbing the Mountain</h3>
+		</header>
+		<p class="blog-paragraph">
+			Finally, this idea of learning to build is what brings us to the metaphor of the mountain.  In The Exodus, the mountain 
+			serves as a type of structure, and it is highly symbolic, both for the latent symbolism of proclaiming something from 
+			‘on high’, but also, because the mountain itself serves as the structural representation of the will of the people.  
+			In essence, reading the ten commandments from the top of Mount Sinai is symbolic of the idea of infinity, particularly 
+			in the sense of being able to replicate the journey which brought forth the ten commandments in the first place.  The 
+			point of reading the commandments isn’t to admonish his followers, or ‘let them know who’s boss’, but simply, to 
+			disperse the information contained within.  This is effectively the same as what an entrepreneur does once the business 
+			is built, and they are looking for clients.  They establish their presence.
+		</p>
+		<p class="blog-paragraph">
+			While still very challenging, I have Moses climbing the mountain as the least challenging of his three main trials, 
+			and I think that this representation would also stand in terms of business development as well.  Once a business reaches 
+			the mountain stage, everything should be working, in some sense or another.  If the mountain stage represents replication 
+			towards infinity, then it can be seen as a type of blueprint for success.  Similarly, when a business reaches the 
+			mountain stage, it begins to proclaim itself, developing its identity and its presence through how and to whom it gets 
+			marketed, in essence.
+		</p>
+	</section>
+	<section>
+		<header>
+			<h3>Endurance and Renewal</h3>
+		</header>
+		<p class="blog-paragraph">
+			A key takeaway of The Exodus story is in considering where the locus of control is situated with each new iteration of 
+			hardship, and then learning how this is relevant to what you’re trying to accomplish as an entrepreneur.  Consider this 
+			take, for example:  The first trial that Moses has to pass is crossing the waters, but in order to do so, he must suspend 
+			his own doubt at the undertaking, and learn to believe in something greater than what he would normally be capable of 
+			accomplishing.  This is that flash of inspiration, when an entrepreneur first locks onto something.  What’s relevant at 
+			this juncture is that the idea isn’t actually all there yet, and that faith must be placed into something that the 
+			entrepreneur cannot, on their own, control.  In a sense, all they can do is prepare for the jump, and when they see the 
+			window, decide whether or not to take it.
+		</p>
+		<p class="blog-paragraph">
+			Next up is the desert, and the part where the entrepreneur finally starts to develop agency over what they’re accomplishing.  
+			Make no mistake, God didn’t help Moses wander the desert for 40 years.  It would have been both a waste of time, and counter 
+			to His point in the first place.  So no, short of a little inspiration here and there, crossing that desert was all Moses; 
+			learning to survive, and learning to guide.  The desert is an important motif in understanding the entrepreneur’s journey 
+			as well.  Never forget: just because you had a great idea, it doesn’t mean that you’re actually any good at your idea.  
+			Those are two separate domains, and the difference between seeing a great need for change, and then understanding, perhaps, 
+			why that change hasn’t happened yet can make or break the success of the business.  You will likely need to become the 
+			change you wish to see, and that’s all part of the process.  The desert is the part where the locus of control shifts away 
+			from the divine, and onto the person themselves.
+		</p>
+		<p class="blog-paragraph">
+			Finally, we come to the mountain, from which Moses proclaims his ten commandments, and where we see the locus of control 
+			shift away from both inspiration or an individual, and onto the crowd itself.  It’s at this point that the entrepreneur 
+			starts easing up.  The structure is now built, and it’s time to sell it.  By shifting the locus away from themselves, 
+			the entrepreneur concedes that from this point onward, the business will only function through reciprocity and exchange.  
+			This is why this part is dedicated to branding, marketing, and developing a client base. It's relationships that matter 
+			the most at this important step, and the fundamental relationship being established is that the entrepreneur has something 
+			that the rest of the population would benefit greatly from.
+		</p>
+		<p class="blog-paragraph">
+			Fundamentally, the relevance of the ten commandments is their usefulness in constructing a society.  In essence, it’s the 
+			same with your business.  At first, you just catch a glimpse of an idea, and you hold onto it.  That idea will grow, one 
+			way or another, and as you start to learn more about your idea, through research, networking, and your own feel for the 
+			market, that idea will either become viable or not.  Don’t be afraid to let it go if it isn’t viable, as you don’t want 
+			to gamble on things you don’t trust from the start.  But if the idea does start to become viable, then look for an opening, 
+			and try to get yourself through the door.  Once you’re through the door, you’ll likely find that the idea you had is 
+			actually much more complicated than what you initially thought.  This is the act of surviving the desert, or becoming 
+			what you will become.  Through repeated hardship at learning how to develop your idea, you become your own master, and 
+			that’s when you’re ready to start proclaiming, and developing a society around your idea.  As this society grows and 
+			develops around you, people who know what you do will eventually require your services, and those are the people who will
+			become your product’s consumers.  It takes persistence throughout the entire journey to get your business to this state, 
+			and you should be proud of your accomplishment.
+		</p>
+		<div class="backButton">
+			<a class="backButton" href="../../index.php#persistence">Back</a>
+		</div>
+	</section>
+</article>									
