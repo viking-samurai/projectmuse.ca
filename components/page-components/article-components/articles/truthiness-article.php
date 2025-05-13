@@ -1,0 +1,279 @@
+<article class="box post">
+	<a href="../../index.php#truthiness">
+		<img class="blog-image-article" src="../../images/blog-images/altruism.png" alt="" />
+	</a>
+	<header>
+		<h2>The Economics of Truthiness</h2>
+	</header>
+	<h4>Examining the reality that an entreprenur should never be afraid to ask for what they're worth.</h4><br />
+	<p class="blog-paragraph">When you study economics for the first time, two of the first few 
+		things you’ll learn are that trading should benefit everyone involved, and that very few 
+		commodities in this Universe have any intrinsic value whatsoever.  These two rules stick 
+		out as primary, or core rules in economics, commerce, and trade, because they are foundational 
+		to the very concept of ‘the flow of goods and services’ itself.  In fact, understanding 
+		these two principles, particularly in relationship to each other, is even more important 
+		than getting a feel for supply, demand, and equilibrium positions, because without understanding 
+		how correlations between investment and cost actually determine values, you’d be hard pressed 
+		to understand how these values fluctuate through the principles of supply and demand in the 
+		first place.
+	</p>
+	<p class="blog-paragraph">With that, let’s start with the first principle listed, that 
+		trade should benefit everyone involved.  In my opinion, it is of paramount importance 
+		to understand that all trade, everywhere, should always benefit everyone involved to 
+		some degree, because without understanding this concept, it becomes rather difficult 
+		to understand how pressure builds within an open system to force equilibriums throughout 
+		the market.  The fact that any consumer, for any reason, can simply choose to abort 
+		one trade directive for another, regardless of purpose or pride, forces everyone at 
+		the table to always be considerate of everyone else at the table, as well as 
+		themselves.  Remember in an earlier article that I wrote, I mentioned that nothing 
+		is ever worth anything until it actually gets sold?  This is why.  In a market driven 
+		scenario, where there are always innumerable choices that every consumer can make 
+		in order to fulfill their consumption needs, any player who makes a habit of ‘bucking’ 
+		the equilibrium is likely to be ignored by the other players in the game at some point.  
+		This works from virtually every direction: from having prices too high, to not charging 
+		enough in the first place, to just being a generally rough player, consistently avoiding 
+		signs that you are not reaching a state of equilibrium against your overt purpose, 
+		within a given trade environment, is likely to cause your removal from that trade 
+		environment in one of several fashions.
+	</p>
+	<p class="blog-paragraph">Next up, the idea that virtually no commodity, anywhere in the 
+		Universe, has any intrinsic value, whatsoever.  This one is both technically challenging 
+		to rationalize, but also crucial in understanding how that old ‘invisible hand’ 
+		of the market even works.  The philosophy conveyed through the idea that no commodity 
+		has any sort of intrinsic value is that of unlimited agency.  Because the ‘real’ value 
+		of any given object (thought, product, or service) is actually zero, the only way to 
+		obtain a value for that object is by deriving it.  This is fundamentally the starting 
+		point as well as the overt purpose of the aforementioned ‘market’.  It’s not so much 
+		a real place, though that often matters, as it is a list of perceived forces, real 
+		or otherwise, that are, or are being used as, determinant factors in assessing the 
+		value of a given commodity.  All sorts or cards get played at this point, and one can 
+		envision the floor of the Toronto Stock Exchange just as readily as a lemonade stand 
+		on a hot day in your local Calgary suburb, and more or less arrive at many of the 
+		same conclusions about both.  Regardless of your particular imagination, these 
+		determining factors are what eventually gets simplified into the concepts of supply 
+		and demand, long after the need to trade in order to progress is formally recognized 
+		in the first place.  What follows is a look at some basic concepts in economics 
+		(don’t kid yourself here, none of this is basic), as well as how these concepts interact 
+		with each other in the development and maintenance of a ‘market’.  My hope is that 
+		people learn to value their own labour more, and maybe even walk away with some 
+		practical advice on how to deploy it industriously, towards a long and profitable 
+		career.  Enjoy! 
+	</p>
+	<section>
+		<header>
+			<h3>Paying for the Opportunity</h3>
+		</header>
+		<p class="blog-paragraph">In a rudimentary sense, the way that an economy actually works 
+			is that each participant within that economy has both a set of needs, and then a set 
+			of advantages and disadvantages by which to achieve those needs.  Generally speaking, 
+			the needs of a society converge, and lead to the development of markets through demand, 
+			while the relative advantages and disadvantages of societies diverge, and lead to the 
+			development of industry to produce supply.  The divergent aspects of societies leads 
+			to specialization, where competition along the same frontiers takes a toll which 
+			is reflected by the prices of a given commodity within a market, while competition 
+			along divergent frontiers leads to more products for a given market (which can also 
+			affect prices).  When you purchase a good or a service from a market, you are 
+			exchanging your labour for the perceived labour of developing the good or service 
+			which you are purchasing.  Most often, this exchange takes place by one party expending 
+			money to acquire the object they desire.  It also takes place through several other 
+			methods, however, with direct trade being the other method which most immediately 
+			comes to mind.  The primary reason why markets benefit society is because of an 
+			economics trigger commonly referred to as ‘opportunity cost’.  The idea behind 
+			‘opportunity cost' is that specialized goods cannot actually be produced by an 
+			individual at anywhere near the quality or price that a specialist could produce 
+			that good or service for.  When you’re buying something, whether it’s a toy around 
+			the holidays, or two hours of an accountant’s time, what you’re actually paying 
+			for is vastly more complex to arrive at than what you could accomplish on your own 
+			at that point in time, and also significantly less than what it would cost you 
+			to do so.  This happens because of industry competition in the background, and 
+			the term ‘opportunity cost’ is derived from the idea that you are paying for the 
+			opportunity to leverage the existing market equilibrium to your advantage for the 
+			purpose of progressing your unique set of needs forward.  This happens across the 
+			economy, both for every individual person, as well as each business and corporation 
+			actively participating in the market, all the time.
+		</p>
+		<p class="blog-paragraph">So, while I laud the DIYer, and believe me, I went and learned JavaScript 
+			on my own, so I have a lot of respect for people going the extra mile to better themselves 
+			and trying to spend less doing it, I wanted to point out that if you did this for each and 
+			every activity of your life, you wouldn’t really have too much time left over for yourself.  
+			At some point, you will run into some things that you really are better off paying for 
+			the opportunity to have or to acquire at a professional capacity, than to do it on your own.  
+			And this is a very good thing.  It creates a demand which is then brought to a market and 
+			supplied, suitably, according to the means of the individual carrying the demand, against 
+			the supply of the commodity by the industry to which that commodity is generally beholden.  
+			When this exchange happens, satisfaction on the side of the demand reinforces the drive 
+			to continue to supply that demand by means of the currency traded in its acquisition.  
+			This currency is used by the shopkeep to restock, paying a supplier to reacquire, and 
+			on and on, back to the hands of the very labourers who make the product, and then send 
+			it on its journey in the first place.  At this point, I’ll drop a quick line to point 
+			out that my purpose is not to dwell on the plights or issues of anyone involved in any 
+			particular supply chain, or demand consortium, but merely to explain, in brief, how these 
+			forces actually interact in tandem to drive an economy.  Essentially, what each side is 
+			trying to do is to maintain equilibrium across an imaginary frontier, which is likely 
+			the most efficient in servicing demand, while simultaneously, likely, the most profitable 
+			towards developing supply.
+		</p>
+		<p class="blog-paragraph">What gets interesting about these forces is that, the more frequently 
+			this interaction takes place for a given commodity, the better each side becomes at 
+			maintaining equilibrium.  This is where competition within a market, represented by 
+			the choice of the consumer on the demand side, meeting with the capacity of the industry 
+			on the supply side, drives the price for a given commodity.  This is also why the idea 
+			of ‘shopping local’ is very important to the overall health of a specific economy.  
+			When you ‘shop local’, the currency exchanged in the satisfaction of demand reinforces 
+			industry specialization at a local level, leading to more varied (because industry 
+			competition pushes agents along divergent paths) and higher quality (because market 
+			competition forces suppliers to add value in some form or another to beat out rivals) 
+			products.  When this happens locally, everyone locally involved benefits.  Prices stay 
+			stable and quality stays high, with market equilibrium tending to last longer, because 
+			everyone is content with the status quo.  When this does not happen locally, local issues 
+			can spring up, particularly during times of industry extremes.  Note the application 
+			of what is called ‘Dutch economics’ here.  You can look it up for a more accurate definition, 
+			but the gist of it is that resource rich environments which do not trade often tend to 
+			fare poorer than non-resource rich environments which frequently trade.  The point is, 
+			it is the act of competitive trading which produces specializations at the local level 
+			that strengthens a given economy, not the apparent resources of that particular region.  
+			When you spend your labour locally, your labour stays local, longer, and this helps 
+			an area flourish by keeping local talent engaged in activities which benefit their 
+			immediate community.  You might literally be paying for the opportunity for everyone 
+			in your immediate area to get better, but when viewed as a type of community investment, 
+			that’s actually a far superior option than reinforcing talent elsewhere.  
+		</p>
+	</section>
+	<section>
+		<header>
+			<h3>Why the World is Better 'Flush'</h3>
+		</header>
+		<p class="blog-paragraph">Remember the CERB cheques during the pandemic?  The idea was simple, 
+			and generally would be the correct path for a nation to pursue, following the outbreak of 
+			such a force of nature.  As businesses were shutting down to accommodate public health concerns, 
+			there was fear of a ripple effect spreading throughout the economy, this ripple being the 
+			ability of the market to reinforce industry through currency, and thus shutting down the 
+			supply side of the Canadian economy for lack of enough monetary incentive to effectively 
+			reinforce the industries supplying it.  The government of Canada, as many others around the 
+			world, made the decision to keep its population ‘flush’, so as to keep its economic machine 
+			powered throughout what it believed would be the duration of the ordeal.  Now, one can debate 
+			any number of facets about how this all rolled out, but to the extent that it was the superior 
+			choice to make, at the point when federal and provincial public health orders went out, assuming 
+			that our government didn’t predict a rise in mortgages fueled by temporary cash (which is not 
+			unreasonable, however incorrect this assumption proved to be), there should be very little doubt 
+			that it was the right call to make.  Now, why do I bring up CERB cheques during the pandemic 
+			to illustrate my point about the world being better off flush?  As we saw with the continued 
+			rise in housing prices throughout the pandemic, when people have money, they tend to spend it.  
+			Generally, this is a good thing from an economics point of view.  It’s what you want to see 
+			in a healthy, participatory economy.  The inflationary period that Canada experienced during 
+			the aftermath of the pandemic, as well as the nature of the crisis in the housing market dubbed 
+			‘the Canadian Housing Bubble’ (I avoid this pretty name where I can) actually have more to 
+			do with existing economic conditions in Canada, rather than the CERB cheques themselves.  
+			They were just a catalyst.
+		</p>
+		<p class="blog-paragraph">Now, metaphorically, money acts as a type of oil to keep the economy flowing, 
+			keeping in mind that the economy is actually the exchange of labour in the form of money, and not 
+			the exchange of money for its own sake (this is where proponents of the ‘Universal Basic Income’ 
+			theory fall short in the debate.  It’s labour that drives an economy, not money).  Following this, 
+			virtually all the popular economic issues that you hear about (and this generalization is for 
+			expediency, not simplicity) have to do in some way with the intentional or unintentional constriction 
+			of the flow of money or labour towards a desired or undesired equilibrium.  At this point, 
+			I’m going to move away from Canadian examples so as to stay focused on the effect of money 
+			on the economy itself, as that is my intended direction here.  Every country has a unique set 
+			of economic controls for its own reasons, but we're here to understand why a richer population 
+			is more useful to a nation than a poorer one.  The reason for this is largely because wealth 
+			and capital remove constraints to investment at an individual level, which increases the frequency 
+			of market exchanges, which, as we looked at earlier, makes everyone more efficient in how they 
+			are serving their local communities.  When you consistently shop local, and you pay appropriate 
+			prices for the goods and services you purchase relative to your community standards, it reinforces 
+			local talent.  This is where the concept of ‘honest work for honest pay’ takes hold and truly 
+			shines.  When local talent succeeds, if they are not paid sufficiently to cover their labour 
+			and reinvest in themselves through market participation outside of their actual jobs, it does 
+			a disservice to the community as a whole by trimming the ability of local participants to engage 
+			with their local economic community for their wants and needs.  Over time, this results in 
+			stunted industries through lowered economic activity, and is not good for the health of a given 
+			population.
+		</p>
+		<p class="blog-paragraph">On the other hand, when the people of a given community are flush, that 
+			community will tend to flourish.  The reason for this is because, outside of their basic needs, 
+			the people of the community are able to start reinvesting in their community for the sake of 
+			improving their experience of it.  Generally speaking, investment does not devalue existing 
+			commodities, except in rare situations where investment causes an entire population to abruptly 
+			shift its habits over a relatively short period, and then that population stays in the new habit 
+			without reprisal going forward.  This is generally how the world progresses in large steps, 
+			and these situations tend to be fairly marked and well documented.  Now, there are obviously 
+			a plethora of situations where the wrong type of investment can make something worse, but, 
+			generally speaking, investment is good for a community, and not investing is bad for it.  
+			Furthering that logic, wealthier communities have more to invest in themselves, and therefore, 
+			tend to stay wealthier.  Poorer communities do not, and so on and so forth...  Where people 
+			tend to err here is in the assumption that only governments, charities, and large corporations 
+			invest in communities.  This isn’t true.  Every person or business that commits to transacting 
+			within their local environment is actively contributing to both the markets within that environment, 
+			as well as the industries which support those markets.  Every idea you have that you develop 
+			to some degree, whether it’s taking on a coaching role for your daughter’s hockey team, or 
+			just that iconic tree-fort in the backyard for fantasy stories with the dragon lover in your 
+			house.  If it involved your labour, it was an investment in your community.  And it mattered.
+		</p>
+	</section>
+	<section>
+		<header>
+			<h3>Honestly, it's Worth It...</h3>
+		</header>
+		<p class="blog-paragraph">There’s a running joke in JavaScript, the programming language that I write in.  
+			When writing conditionals, there are three concepts which each fall under the umbrella of ‘equals’, 
+			and they are expressed with either one, two, or three equals signs.  The joke is that, while the first 
+			and the third (one and three equals signs) are relatively easy to understand and deploy properly, the 
+			second one, which evaluates a concept called ‘truthiness’, tends to be quite a bit trickier to grasp.  
+			The reason for this is because the term truthiness covers a range of abstract concepts in math and 
+			programming that can all start to wash together as your scripts get longer, while the first and third 
+			are simply declarative and ‘for exact representations’, in that order.
+		</p>
+		<p class="blog-paragraph">I wanted to pull this concept out of my day job and evaluate it more broadly, 
+			because I think it’s important that as a society, we start to understand what all goes into 
+			solopreneurship, or even just operating a business at large.  The truth is, while every labourer 
+			adds value to an economy, not every labourer takes on either the load or the risk that an entrepreneur 
+			does, and while it is ultimately the entrepreneur’s choice to persist in their endeavour, there 
+			is an inherent truthiness to the idea that these people really do have a heavier workload, as 
+			well as a higher burden of responsibility to bear, at least relative to their continued employment.  
+			Yes, Capitalism enables an individual to exert control over the assets they develop for themselves, 
+			and yes, this can make some people fabulously wealthy, but it’s also important to understand 
+			that the world we live in is dynamic, and constantly fluctuating.  There are forces which entrepreneurs 
+			must contend with that a great deal of ordinary labourers will simply never encounter throughout 
+			their entire careers.  This is why, to me, Capitalism works best when viewed through the lens 
+			of truthiness.  Truthiness, as a concept, allows a group of individuals to make evaluations 
+			based on systemic inference, rather than declarative assertions.  This means that, in an open 
+			system, where each individual is imbued with unlimited agency, truthiness acts as a type of 
+			guarantee for overall quality.  And, furthermore, I posit that the more people who are engaged 
+			in trade with each other within an open system that are able to employ truthiness to correctly 
+			infer from each other, without overt explanation, the healthier that system is, overall.  
+			This is because trust exists within that system, and it exists because the people within that 
+			system, even if they don’t trust each other personally, tend to be able to trust each other 
+			professionally, in order to maintain the system.
+		</p>
+		<p class="blog-paragraph">I bring this up because I find that many entrepreneurs often sell their 
+			accomplishments short, particularly at the outset of a new venture.  I used to do this as well, 
+			and I have some experience with straightening this issue out, but it’s not a pleasant problem to 
+			have to go back and solve.  It’s also a potentially fatal flaw to an otherwise excellent idea if 
+			you don’t get it right, so, always start by selling high, and letting the market work you down to 
+			its equilibrium.  The truth is, in almost all scenarios concerning your business, you will know 
+			your own strengths and vulnerabilities better than everyone else around you.  Your job, once your 
+			business is up, is to maintain your status or priority within the system you belong to, and you 
+			will find this feat easiest to accomplish by charging an amount for your labour that never makes 
+			you consider leaving one client unsatisfied to pursue another client, just for more money.  This 
+			type of planning is disastrous to relationships, and seriously hampers your ability to plan for 
+			the long haul with your new venture.  It’s easiest to be truthy upfront, and to make sure that 
+			your clients know that you won’t leave them caught in a state of disequilibrium on their projects 
+			because you didn’t plan your time or your business for your own success.  Perhaps I’m being 
+			optimistic, but you should actively engage with the people you are working with to help them 
+			understand what they’re paying for by engaging with a professional, or what your time will 
+			eventually yield.  The truth is, if everybody races to the bottom, nobody wins.  Think about 
+			it.  You don’t want to work for drastically less than what you’re worth just to get contracts 
+			done, and you also wouldn’t buy the work from someone who’s working at their bottom line, just 
+			to get the contracts done.  Now take that to the next step.  If all you charge, or all you pay 
+			someone is the exact cost of getting a project done, and nothing more for re-investment, of what 
+			benefit is that to the larger economy?  No one is getting further by just making ends meet, and 
+			while an entrepreneur might be early enough in this process to still be turning out quality 
+			products, everyone burns out eventually, and at some point, you burning out will be a detriment 
+			to the larger community.  And thus, we arrive at the economics of truthiness.  It turns out that 
+			when everyone is honestly selling high, well, everyone just wins.  Cheers!
+		</p>
+		<div class="backButton">
+			<a class="backButton" href="../../index.php#truthiness">Back</a>
+		</div>
+	</section>
+</article>

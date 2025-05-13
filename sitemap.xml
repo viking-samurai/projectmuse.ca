@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.projectmuse.ca/index.html</loc>
+    <lastmod>2025-05-06</lastmod>
+  </url>  
+
+
+  <url>
+    <loc>https://www.projectmuse.ca/pages/article-pages/persistence-page.php</loc>
+    <lastmod>2025-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.projectmuse.ca/pages/article-pages/creativity-page.php</loc>
+    <lastmod>2025-05-03</lastmod>
+  </url>
+  <ul>
+    <loc>https://www.projectmuse.ca/pages/article-pages/grinder-page.php</loc>
+    <lastmod>2025-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.projectmuse.ca/pages/article-pages/truthiness-page.php</loc>
+    <lastmod>2025-05-03</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.projectmuse.ca/pages/portfolio-pages/blogs-and-small_Businesses.php</loc>
+    <lastmod>2025-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.projectmuse.ca/pages/portfolio-pages/commercial-and-industrial.html</loc>
+    <lastmod>2025-05-03</lastmod>
+  </url>
+  <ul>
+    <loc>https://www.projectmuse.ca/pages/portfolio-pages/resumes-and-CVs.php</loc>
+    <lastmod>2025-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.projectmuse.ca/pages/portfolio-pages/self_Publishing-and-others.php</loc>
+    <lastmod>2025-05-03</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.projectmuse.ca/pages/services-pages/custom_Built-creations.php</loc>
+    <lastmod>2025-05-06</lastmod>
+  </url>
+  <ul>
+    <loc>https://www.projectmuse.ca/pages/services-pages/SEO-and-data.php</loc>
+    <lastmod>2025-05-06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.projectmuse.ca/pages/services-pages/management-and-consulting.php</loc>
+    <lastmod>2025-05-06</lastmod>
+  </url>
+
+  
+  <url>
+    <loc>https://www.projectmuse.ca/assets/css/main.css</loc>
+    <lastmod>2025-05-03</lastmod>
+  </url>
+</urlset>
