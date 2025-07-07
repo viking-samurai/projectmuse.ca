@@ -1,8 +1,8 @@
-<div class="col-4 col-6-medium col-12-small right-site-display">
-	<a href="https://viking-samurai.github.io/love-and-chaosVersion1/" target="_blank" class="image">
-	<img class="portfolio-image" src="../../images/portfolio-images/portfolio-images-siteLink-images/ShamanismPic.jpg" alt="" /></a>
+<div class="col-4 col-6-medium col-12-small left-site-display">
+	<a href="https://loveandchaos.space/" target="_blank" class="image">
+	<img class="portfolio-image" src="../../images/portfolio-images/portfolio-images-siteLink-images/ShamanismPic.png" alt="" /></a>
 	<ul class="actions" style="margin: 2em 0;">
-		<li><a href="https://viking-samurai.github.io/love-and-chaosVersion1/" target="_blank" class="button alt">Take a look.</a></li>
+		<li><a href="https://loveandchaos.space/" target="_blank" class="button alt">Take a look.</a></li>
 	</ul>			
 	<div class="backButton">
 		<a class="backButton" href="../../index.php#blogs-and-small-business">Back</a>

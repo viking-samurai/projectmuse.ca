@@ -1,4 +1,4 @@
-<div class="col-4 col-6-medium col-12-small left-site-display">
+<div class="col-4 col-6-medium col-12-small right-site-display">
 	<a href="https://viking-samurai.github.io/emmersion.ca/" target="_blank" class="image">
 		<img class="portfolio-image" src="../../images/portfolio-images/portfolio-images-siteLink-images/EmmersionPic.png" alt="" />
 	</a>
