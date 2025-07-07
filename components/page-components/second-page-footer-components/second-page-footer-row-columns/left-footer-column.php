@@ -13,7 +13,7 @@
 		<li>
 			<h3>Hours</h3>
 			<p style="max-width: 16rem">
-				<a href="index.php">Project Muse</a> is available throughout the week from 9am to 5pm.</p>
+				<a href="../../index.php">Project Muse</a> is available throughout the week from 9am to 5pm.</p>
 		</li>
 		<li>
 			<h3>E-mail</h3>
