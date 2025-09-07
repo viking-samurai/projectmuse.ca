@@ -1,14 +1,20 @@
-<div class="row row-centering-tool">
-	<div class="col-5 col-6-medium col-12-small">
-		<?php include 'portfolio-units/blogs-and-small_Businesses.php' ?>
+<div class="row">
+	<div class="col-4 col-6-medium col-12-small">
+		<?php include 'portfolio-units/love-and-chaos.php' ?>
 	</div>
-	<div class="col-5 col-6-medium col-12-small">
-		<?php include 'portfolio-units/commercial-and-industrial.php' ?>
+	<div class="col-4 col-6-medium col-12-small">
+		<?php include 'portfolio-units/eddifice-construction.php' ?>
 	</div>
-	<div class="col-5 col-6-medium col-12-small">
-		<?php include 'portfolio-units/resumes-and-curriculum_Vitae.php' ?>
+	<div class="col-4 col-6-medium col-12-small">
+		<?php include 'portfolio-units/emmersion.php' ?>
 	</div>
-	<div class="col-5 col-6-medium col-12-small">
-		<?php include 'portfolio-units/self_Publishing-and-other.php' ?>
+	<div class="col-4 col-6-medium col-12-small">
+		<?php include 'portfolio-units/guerrilla-teacher.php' ?>
+	</div>
+	<div class="col-4 col-6-medium col-12-small">
+		<?php include 'portfolio-units/curriculum-vitae.php' ?>
+	</div>
+	<div class="col-4 col-6-medium col-12-small">
+		<?php include 'portfolio-units/guild-saga.php' ?>
 	</div>
 </div>
