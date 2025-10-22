@@ -1,13 +1,16 @@
 <section class="box">
-	<a href="https://viking-samurai.github.io/aedifico-constructionelite/" target="_blank" class="image">
-		<img class="portfolio-image" src="images/portfolio-images/elite-construction-logo(mod).png" alt="" /></a>
+	<a href="https://viking-samurai.github.io/aedifico-constructionelite/" target="blank" class="image">
+		<img class="portfolio-image" src="images/portfolio-images/elite-construction-logo1(edits).png" alt="" /></a>
 	<header>
-		<h3>Consequat et tempus</h3>
+		<h3>Elite Construction</h3>
 	</header>
-	<p>Lorem ipsum dolor sit amet sit veroeros sed amet blandit consequat veroeros lorem blandit adipiscing et feugiat phasellus tempus dolore ipsum lorem dolore.</p>
+	<p>Elite Construction is a website I'm developing for an exterior enveloping company.  
+		They needed a full-stack website to transition from a few employees to a large-scale 
+		enterprise.  Their plan is to build the website over a few years to ensure that it 
+		roles out in sync with their planning.</p>
 	<footer>
 		<ul class="actions">
-			<li><a href="https://viking-samurai.github.io/aedifico-constructionelite/" target="_blank" class="button alt">Find out more</a></li>
+			<li><a href="https://viking-samurai.github.io/aedifico-constructionelite/" target="blank" class="button alt">Find out more</a></li>
 		</ul>
 	</footer>
 </section>
