@@ -18,16 +18,22 @@
             <a href="index.php#portfolio">Portfolio</a>
             <ul>
                 <li class="main-nav-dropdown">
-                    <a href="index.php#blogs-and-small-business">Blogs and Small Business Sites</a>
+                    <a href="index.php#love-and-chaos">Love and Chaos</a>
                 </li>
                 <li class="main-nav-dropdown">
-                    <a href="index.php#commercial-and-industrial">Industrial and Commercial Sites</a>
+                    <a href="index.php#elite-construction">Elite Construction</a>
                 </li>
                 <li class="main-nav-dropdown">
-                    <a href="index.php#resume-websites">Resumé Websites and Curriculum Vitae</a>
+                    <a href="index.php#emmersion-economics">E-mmersion Economics</a>
                 </li>
                 <li class="main-nav-dropdown">
-                    <a href="index.php#self-publishing">Self-Publishing and Other Sites</a>
+                    <a href="index.php#guerrilla-teacher">Guerrilla Teacher</a>
+                </li>
+                <li class="main-nav-dropdown">
+                    <a href="index.php#curriculum-vitae">Online Resumés</a>
+                </li>
+                <li class="main-nav-dropdown">
+                    <a href="index.php#guild-saga">Guild Saga</a>
                 </li>
             </ul>
         </li>

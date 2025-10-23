@@ -1,7 +1,8 @@
         <div class="row">
             <div class="col-4 col-12-medium">
                 <section class="first" id="build-offer" style="border-radius: 5px;">
-                    <a href="pages/services-pages/custom_Built-creations.php"><i class="icon solid featured fa-cog"></i>
+                    <a href="pages/services-pages/custom_Built-creations.php" class="services-icon">
+                        <i class="icon solid featured fa-cog"></i>
                     <header>
                         <h2>Tailored Webites <br />to Power Your Vision</h2>
                     </header></a>
@@ -17,7 +18,8 @@
             </div>
             <div class="col-4 col-12-medium">
                 <section class="last" id="data-offer" style="border-radius: 5px;">
-                    <a href="pages/services-pages/SEO-and-data.php"><i class="icon solid featured alt fa-bolt"></i>
+                    <a href="pages/services-pages/SEO-and-data.php" class="services-icon">
+                        <i class="icon solid featured alt fa-bolt"></i>
                     <header>
                         <h2>SEO and Data Insights<br />to Unlock Growth</h2>
                     </header></a>
@@ -32,7 +34,8 @@
             </div>
             <div class="col-4 col-12-medium">
                 <section class="last" id="management-offer" style="border-radius: 5px;">
-                    <a href="pages/services-pages/management-and-consulting.php"><i class="icon solid featured alt2 fa-star"></i>
+                    <a href="pages/services-pages/management-and-consulting.php" class="services-icon">
+                        <i class="icon solid featured alt2 fa-star"></i>
                     <header>
                         <h2>Expert Guidance for <br />Seamless Success</h2>
                     </header></a>

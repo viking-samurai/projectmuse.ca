@@ -1,4 +1,4 @@
-<section class="box">
+<section class="box" id="emmersion-economics">
 	<a href="https://viking-samurai.github.io/emmersion.ca/" target="blank" class="image">
 		<img class="portfolio-image" src="images/portfolio-images/EmmersionPic.png" alt="" /></a>
 	<header>

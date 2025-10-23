@@ -1,4 +1,4 @@
-<section class="box">
+<section class="box" id="curriculum-vitae">
 	<a href="https://viking-samurai.github.io/ryansResume/" target="blank" class="image">
 		<img class="portfolio-image" src="images/portfolio-images/ryansresume.png" alt="" /></a>
 	<header>

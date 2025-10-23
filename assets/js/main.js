@@ -25,6 +25,15 @@ myButton.onclick = () => {
 };
 
 
+const servicesIcons = document.querySelectorAll('.services-icon');
+
+function changeCursor(e) {
+	e.target.style.cursor = 'pointer';
+}
+
+servicesIcons.forEach(icon => icon.addEventListener('mouseover', changeCursor));
+
+
 /*
 	Dopetrope by HTML5 UP
 	html5up.net | @ajlkn

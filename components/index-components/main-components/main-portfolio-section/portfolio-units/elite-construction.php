@@ -1,4 +1,4 @@
-<section class="box">
+<section class="box" id="elite-construction">
 	<a href="https://viking-samurai.github.io/aedifico-constructionelite/" target="blank" class="image">
 		<img class="portfolio-image" src="images/portfolio-images/elite-construction-logo1(edits).png" alt="" /></a>
 	<header>

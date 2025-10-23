@@ -1,4 +1,4 @@
-<section class="box">
+<section class="box" id="guerrilla-teacher">
 	<a href="https://viking-samurai.github.io/guerilla-teacher-vol1/" target="blank" class="image">
 		<img class="portfolio-image" src="images/portfolio-images/guerrilla-teacher1.png" alt="" /></a>
 	<header>
