@@ -7,6 +7,7 @@
 			<h3>Social</h3>
 			<ul class="social">
 				<li style="padding: 0;"><a class="icon brands fa-linkedin-in" target="_blank" href="https://www.linkedin.com/in/ryan-degen-shaman-at-large"></a></li>
+				<li style="padding: 0;"><a class="icon brands fa-discord" target="_blank" href="https://discord.gg/GG2ffDph4e"></a></li>
 				<li style="padding: 0;"><a class="icon brands fa-github" target="_blank" href="https://github.com/viking-samurai/viking-samurai/blob/main/README.md"></a></li>
 			</ul>
 		</li>

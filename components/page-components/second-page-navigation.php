@@ -33,10 +33,10 @@
 					<a href="../../index.php#guerrilla-teacher">Guerrilla Teacher</a>
 				</li>
                 <li class="main-nav-dropdown">
-                    <a href="../../index.phpindex.php#curriculum-vitae">Online Resumés</a>
+                    <a href="../../index.php#curriculum-vitae">Online Resumés</a>
                 </li>
                 <li class="main-nav-dropdown">
-                    <a href="../../index.phpindex.php#guild-saga">Guild Saga</a>
+                    <a href="../../index.php#guild-saga">Guild Saga</a>
                 </li>
 			</ul>
 		</li>
