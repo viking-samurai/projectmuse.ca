@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.projectmuse.ca/index.html</loc>
-    <lastmod>2025-07-07</lastmod>
+    <lastmod>2025-10-23</lastmod>
   </url>  
 
 
@@ -23,22 +23,6 @@
     <lastmod>2025-07-07</lastmod>
   </url>
 
-  <url>
-    <loc>https://www.projectmuse.ca/pages/portfolio-pages/blogs-and-small_Businesses.php</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://www.projectmuse.ca/pages/portfolio-pages/commercial-and-industrial.html</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <ul>
-    <loc>https://www.projectmuse.ca/pages/portfolio-pages/resumes-and-CVs.php</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://www.projectmuse.ca/pages/portfolio-pages/self_Publishing-and-others.php</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
 
   <url>
     <loc>https://www.projectmuse.ca/pages/services-pages/custom_Built-creations.php</loc>
@@ -57,5 +41,9 @@
   <url>
     <loc>https://www.projectmuse.ca/assets/css/main.css</loc>
     <lastmod>2025-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.projectmuse.ca/assets/js/main.js</loc>
+    <lastmod>2025-10-23</lastmod>
   </url>
 </urlset>
