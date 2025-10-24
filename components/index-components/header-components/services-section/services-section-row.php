@@ -39,8 +39,8 @@
                     <header>
                         <h2>Expert Guidance for <br />Seamless Success</h2>
                     </header></a>
-                    <p class="service-paragraph" style="margin: 0 .5em;">Custom websites and applications often 
-                        require specialized expertise for management after deployment. Project Muse's 
+                    <p class="service-paragraph" style="margin: 0 .5em;">Custom websites and web applications
+                        often require specialized expertise for management after being deployed. Project Muse's 
                         <a href="pages/services-pages/management-and-consulting.php">consulting and management 
                         packages</a> provide the skilled guidance you need to seamlessly integrate, maintain, and 
                         optimize your web applications after deployment. Empower your team with expert support 
