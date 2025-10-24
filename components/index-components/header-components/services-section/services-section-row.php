@@ -10,9 +10,9 @@
                         Based out of Calgary, Alberta, Project Muse specializes in developing 
                         <a href="pages/services-pages/custom_Built-creations.php">custom websites 
                         and web	applications</a> to meet your business goals. Whether you're launching 
-                        something new, or need to modernize an existing website or web application, 
-                        Project Muse provides experienced, full-stack web development 
-                        to deliver a custom solution for your online experience.
+                        something new, or you need to modernize an existing website or web application, 
+                        Project Muse provides experienced, full-stack web development expertise to deliver
+                        a solution for your online experience.
                     </p>
                 </section>
             </div>
