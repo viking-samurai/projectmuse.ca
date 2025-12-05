@@ -40,10 +40,11 @@
                         <h2>Expert Guidance for <br />Seamless Success</h2>
                     </header></a>
                     <p class="service-paragraph" style="margin: 0 .5em;">Custom websites and web applications
-                        often require specialized expertise for management after being deployed. Project Muse's 
-                        <a href="pages/services-pages/management-and-consulting.php">consulting and management 
-                        packages</a> provide the skilled guidance you need to seamlessly integrate, maintain, and 
-                        optimize your web applications after deployment. Empower your team with expert support 
+                        often require specialized expertise for maximizing their outcome after being deployed.
+                        Project Muse's <a href="pages/services-pages/management-and-consulting.php">brand coaching</a>
+                        and <a href="pages/services-pages/management-and-consulting.php">database management</a> 
+                        packages provide the skilled guidance you need to bring your full-stack vision to life.
+                        Maximize your outcomes while reducing your stress, with clear, effective coaching, 
                         from Project Muse.
                     </p>
                 </section>

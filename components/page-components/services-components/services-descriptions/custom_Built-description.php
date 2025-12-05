@@ -10,11 +10,15 @@
 		is by following a simple, three-step process to take the customer from their idea, to a finished project.  
 		Modern websites and applications are large projects that require significant planning.  The three-step 
 		process is designed to engage with the customer about their ideas, and their viability, without backtracking, 
-		and redoing steps.  The three step process looks like this:  <u><strong>Step 1</strong></u>: Planning 
-		and designing your website.  <u><strong>Step 2</strong></u>: Framing and filling your website.  
-		<u><strong>Step 3</strong></u>: Programming and databasinging your website.  Following this process 
-		allows us to work together in smaller sections at a time, while always maintaining the larger picture 
-		of what we're building.
+		and redoing steps.  The three step process looks like this:
+		<ul>
+			<li><u><strong>Step 1</strong></u>: Planning and designing your website.</li>
+			<li><u><strong>Step 2</strong></u>: Framing and filling your website.</li>
+			<li><u><strong>Step 3</strong></u>: Programming and databasinging your website.</li>
+		</ul> 
+
+		Following this process allows us to work together in smaller sections at a time, while always maintaining 
+		the larger picture of what we're building.
 	</p>
 	<section>
 		<header>

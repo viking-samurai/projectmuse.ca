@@ -2,7 +2,8 @@
     <header>
         <h2>Need a Muse?</h2>
         <p class="blog-description-paragraph">From beautifully designed websites and web applications, 
-            to data-driven growth strategies and search engine optimization, Project Muse provides the expert web 
-            development and business intelligence services you need to lead with your best foot forward.</p>
+            to data-driven growth strategies and brand coaching, Project Muse provides professional 
+            copywriting and search engine optimization, as well as database development and training 
+            for Calgary businesses.</p>
     </header>
 </section>
