@@ -6,45 +6,43 @@
 	</header>
 	<h4 class="main-offers-paragraph"><em>SEO and Data, à la carte</em></h4><br />
 	<p class="main-offers-paragraph">
-		Data drives the business world, and everyone uses search engines, so it's important to know 
-		how your business numbers are stacking up.  Furthermore, it takes years of trial and error 
-		before a solid plan for cracking the first page of Google search results is even possible, 
-		and even then, constant tweaks might still be necessary to maintain that position, once 
-		it's been attained.  Lastly, competition for specific keywords can be quite fierce, in 
-		addition to the challenge of keeping up with known algorithms.  And that's just for Google.  
-		There are at least three other main search engines that people use in the form	of Bing, 
-		Yahoo, and Mac's own preferred browser: Safari.
+		Search Engine Optimization is the process of learning what will cause your website or web 
+		application to rank higher on search engine results.  It is a type of branding process, 
+		but specifically geared towards search bots on the Intenet, and learning to help them 'see' 
+		your website.
 	</p>
 	<p class="main-offers-paragraph">
-		And that's just what it takes to manage your search engine optimization.  Many modern businesses 
-		optimize their processes based on the data they're able to collect and incorporate into their 
-		practices.  Data extraction is a profession all on it's own, and is generally considered separate 
-		to the actual web building process.  It's hard work, but at Project Muse, I can handle that.  
-		Check out my premium packages below to see if either a Search Engine Optimization, or else a 
-		data management package would be right for your business needs.
+		Business intelligence is a set of data from your site's web traffic that is specifically curated 
+		to help you understand a range of data, including: who your customers are, how they are accessing 
+		your site, what they are purchasing on your site, and so on.  It allows you, as the owner to 
+		allocate more resources towards activities that are likely to yield more revenue, while avoiding, 
+		or repositioning from situations that are likely to yield less.
+	</p>
+	<p class="main-offers-paragraph">
+		Project Muse offers year-long packages for either search engine optimization or business intelligence 
+		gathering and reporting, though the business intelligence and reporting package does require that the 
+		website or application be connected to an active database, or, at 
+		<a href="../../pages/services-pages/custom_Built-creations.php"><strong><u>Step 3</u>: </strong>
+		Databasing your website</a> of the Project Muse build process.
 	</p>
 	<section>
 		<header>
 			<h3>Option 1: <span style="color: #12a8f2;">SEO Packages</span></h3>
 		</header>
 		<p class="main-offers-paragraph">
-			Search Engine Optimization, or SEO for short, is the art and science of getting your website 
-			to appear as high in the search order of as many different search engines as possible.  Done 
-			properly, it is a years-long process of planning keywords and then verifying how, how often, 
-			for how long, and from where your customers are accessing your website or web application, 
-			using the keywords that you're keeping track of.  It is an intense process, unique to each 
-			business or professional practice.  It is also a necessary process for companies that are keen 
-			to expand.  Over time, businesses and professionals that develop and follow a plan to maintain 
-			a certain position in search engine ordering get more page lands, experience more user clicks, 
-			keep searchers on their websites and web applications longer, and convert more website users 
-			into customers than their counterparts.  When your company is ready to start pushing serious 
-			traffic and sales, Search Engine Optimization is where you start.
+			Project Muse uses a variety of techniques and technologies to help your website stand out, 
+			including server side rendering, a process of directly revealing your website or web application 
+			to the search bots to help them create a clearer picture, and get your website rated higher for 
+			a greater variety and more searches.  Server side rendering also improves all upload times, giving 
+			you much better static load times for your website, another major metric used by search bots, 
+			in addition to being easier for them to read.
 		</p>
 		<p class="main-offers-paragraph">
 			At Project Muse, I develop custom portfolios to help your company with search engine optimization.
 			These portfolios are unique to every business looking for this type of expertise, and my focus is 
-			on ensuring long-term satisfaction with the search engine keywords that you're targeting.  If you 
-			want to go big with your business or profession, you need to manage your SEO, and I can do that.
+			on ensuring long-term satisfaction with the search engine keywords that you're targeting.  At the 
+			end of 	<a href="../../pages/services-pages/custom_Built-creations.php"><strong><u>Step 2</u>: </strong>
+			Developing your website</a>, your recieved an SEO profile.  We will build your SEO plan from this.
 		</p>
 	</section>
 	<section>
