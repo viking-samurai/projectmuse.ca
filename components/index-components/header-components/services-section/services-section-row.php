@@ -40,11 +40,11 @@
                         <h2>Expert Guidance for <br />Seamless Success</h2>
                     </header></a>
                     <p class="service-paragraph" style="margin: 0 .5em;">Custom websites and web applications
-                        often require specialized expertise for maximizing their outcome after being deployed.
+                        often require specialized expertise to maximize their effectiveness after being deployed.
                         Project Muse's <a href="pages/services-pages/management-and-consulting.php">brand coaching</a>
                         and <a href="pages/services-pages/management-and-consulting.php">database management</a> 
-                        packages provide the skilled guidance you need to bring your full-stack vision to life.
-                        Maximize your outcomes while reducing your stress, with clear, effective coaching, 
+                        packages provide the skills and guidance your organization needs to bring your 
+                        full-stack vision to life.  Maximize your outcomes while reducing stress, with coaching
                         from Project Muse.
                     </p>
                 </section>
