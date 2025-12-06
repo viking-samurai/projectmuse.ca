@@ -32,17 +32,18 @@
 		<p class="main-offers-paragraph">
 			Project Muse uses a variety of techniques and technologies to help your website stand out, 
 			including server side rendering, a process of directly revealing your website or web application 
-			to the search bots to help them create a clearer picture, and get your website rated higher for 
-			a greater variety and more searches.  Server side rendering also improves all upload times, giving 
-			you much better static load times for your website, another major metric used by search bots, 
-			in addition to being easier for them to read.
+			to the search bots to help them create a clearer picture of your project on the Internet.  This 
+			process gets your website rated higher for both a greater variety of searches, as well as more 
+			total searches.  Server side rendering also improves all upload times, giving you much better static 
+			load times for your website, another major metric used by search bots, in addition to being easier 
+			for them to read.
 		</p>
 		<p class="main-offers-paragraph">
 			At Project Muse, I develop custom portfolios to help your company with search engine optimization.
 			These portfolios are unique to every business looking for this type of expertise, and my focus is 
 			on ensuring long-term satisfaction with the search engine keywords that you're targeting.  At the 
 			end of 	<a href="../../pages/services-pages/custom_Built-creations.php"><strong><u>Step 2</u>: </strong>
-			Developing your website</a>, your recieved an SEO profile.  We will build your SEO plan from this.
+			Developing your website</a>, you recieved an SEO profile.  We will build your SEO plan from this.
 		</p>
 	</section>
 	<section>
