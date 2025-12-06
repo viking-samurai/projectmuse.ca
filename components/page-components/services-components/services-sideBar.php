@@ -22,8 +22,8 @@
 	</header>
 	<p class="">MERN stack, written in a PHP framework, is a modern programming stack with a twist.  MERN 
 		is an adaptable, scalable technology stack that works well for all websites and web applications,  
-		but especially well for websites and applications where the owner expects substantial daily user traffic 
-		on the front-end.  Facebook uses MERN stack.
+		but especially well for websites and applications where the owner expects substantial daily user traffic. 
+		Facebook uses MERN stack.
 	</p>
 	<p class="">PHP is a classic, back-end language, noted for both its speed and security, as well as 
 		its greater synergy with modern Search Engine Optimization practices.  MERN stack and PHP, written together, 
