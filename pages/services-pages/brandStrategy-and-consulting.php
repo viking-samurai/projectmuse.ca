@@ -7,10 +7,10 @@
 			<?php include '../../components/top-button.php' ?>
 
 			<!-- Header -->
-			 	<?php include '../../components/page-components/services-components/services-headers/management-and-consulting-header.php' ?>
+			 	<?php include '../../components/page-components/services-components/services-headers/brandStrategy-and-consulting-header.php' ?>
 
 			<!-- Main -->
-			 	<?php include '../../components/page-components/services-components/services-mains/management-and-consulting-main.php' ?>
+			 	<?php include '../../components/page-components/services-components/services-mains/brandStrategy-and-consulting-main.php' ?>
 
 			<!-- Footer -->
 				<?php include '../../components/page-components/second-page-footer.php' ?>

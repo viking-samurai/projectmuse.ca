@@ -13,7 +13,7 @@
 					<a href="../../pages/services-pages/SEO-and-data.php">SEO and Data Packages</a>
 				</li>
 				<li class="main-nav-dropdown">
-					<a href="../../pages/services-pages/management-and-consulting.php">Management and Consulting</a>
+					<a href="../../pages/services-pages/brandStrategy-and-consulting.php">Brand Strategy Cnsulting</a>
 				</li>
 			</ul>
 		</li>
