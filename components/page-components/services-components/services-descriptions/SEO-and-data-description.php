@@ -13,10 +13,10 @@
 	</p>
 	<p class="main-offers-paragraph">
 		Business intelligence is a set of data from your site's web traffic that is specifically curated 
-		to help you understand a range of data, including: who your customers are, how they are accessing 
-		your site, what they are purchasing on your site, and so on.  It allows you, as the owner to 
-		allocate more resources towards activities that are likely to yield more revenue, while avoiding, 
-		or repositioning from situations that are likely to yield less.
+		to help you understand: who your customers are, how they are accessing your site, what they 
+		are purchasing on your site, and so on.  It allows you, as the owner to allocate more resources 
+		towards activities that are likely to yield more revenue, while avoiding, or repositioning 
+		from situations that are likely to yield less.
 	</p>
 	<p class="main-offers-paragraph">
 		Project Muse offers year-long packages for either search engine optimization or business intelligence 
@@ -50,8 +50,12 @@
 		<header>
 			<h3>Option 2: <span style="color: #12a8f2;">Data Packages</span></h3>
 		</header>
-		<p>
-			Coming soon!
+		<p class="main-offers-paragraph">
+			Coming soon!  Data packages designed to help you target your ideal customers more effectively, 
+			achieve greater traffic on your website or web application, and ultimately, engage with your 
+			community in the manner most befitting your company or organization.  Furthermore, I offer 
+			training on database integration and development so that you can take over running your own 
+			database, and enriching your community as a result.
 		</p>
 		<div class="backButton" style="margin: auto 0;">
 			<a class="backButton" href="../../index.php#intro">Back</a>

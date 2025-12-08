@@ -25,10 +25,11 @@
                     </header></a>
                     <p class="service-paragraph" style="margin: 0 .5em;">Your website is a powerful asset 
                         for engaging customers, boosting sales, and building brand presence within your 
-                        networks. Project Muse's <a href="pages/services-pages/SEO-and-data.php">
-                        SEO and data analysis packages</a> provide you with the business intelligence 
-                        you need to make strategic decisions and drive results for your organization. 
-                        Gain clarity, optimize your performance, and grow with Project Muse.
+                        networks. Project Muse's <a href="pages/services-pages/SEO-and-data.php">SEO</a> 
+                        and <a href="pages/services-pages/SEO-and-data.php">data analysis packages</a> 
+                        provide you with the business intelligence you need to make strategic decisions 
+                        and drive results for your organization. Gain clarity, optimize your performance, 
+                        and grow with Project Muse.
                     </p>
                 </section>
             </div>
@@ -42,7 +43,7 @@
                     <p class="service-paragraph" style="margin: 0 .5em;">Custom websites and web applications
                         often require specialized expertise to maximize their effectiveness after being deployed.
                         Project Muse's <a href="pages/services-pages/management-and-consulting.php">brand coaching</a>
-                        and <a href="pages/services-pages/management-and-consulting.php">database management</a> 
+                        and <a href="pages/services-pages/SEO-and-data.php">database management</a> 
                         packages provide the skills and guidance your organization needs to bring your 
                         full-stack vision to life.  Maximize your outcomes while reducing stress, with coaching
                         from Project Muse.
