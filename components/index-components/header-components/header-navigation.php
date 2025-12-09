@@ -10,7 +10,7 @@
                     <a href="pages/services-pages/SEO-and-data.php">SEO and Data Packages</a>
                 </li>
                 <li class="main-nav-dropdown">
-                    <a href="pages/services-pages/brandStrategy-and-consulting.php">Brand Strategy Cnsulting</a>
+                    <a href="pages/services-pages/brandStrategy-and-consulting.php">Brand Strategy Consulting</a>
                 </li>
             </ul>
         </li>
