@@ -4,7 +4,7 @@
 	<header>
 		<h2 style="color: #12a8f2;">Building by the Numbers</h2>
 	</header>
-	<h4 class="main-offers-paragraph"><em>SEO and Data, à la carte</em></h4><br />
+	<h4 class="main-offers-paragraph"><em>SEO and data, à la carte</em></h4><br />
 	<p class="main-offers-paragraph">
 		Search Engine Optimization is the process of learning what will cause your website or web 
 		application to rank higher on search engine results.  It is a type of branding process, 
