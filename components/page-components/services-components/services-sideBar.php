@@ -18,7 +18,7 @@
 </section>
 <section class="box">
 	<header>
-		<h3>About the technology</h3>
+		<h3>About the Technology</h3>
 	</header>
 	<p class="">MERN stack, written in a PHP framework, is a modern programming stack with a twist.  MERN 
 		is an adaptable, scalable technology stack that works well for all websites and web applications,  
