@@ -6,9 +6,8 @@
 		<li>
 			<h3>Social</h3>
 			<ul class="social">
-				<li style="padding: 0;"><a class="icon brands fa-linkedin-in" target="blank" href="https://www.linkedin.com/in/maestro-ryan-degen"></a></li>
-				<li style="padding: 0;"><a class="icon brands fa-discord" target="blank" href="https://discord.gg/GG2ffDph4e"></a></li>
-				<li style="padding: 0;"><a class="icon brands fa-github" target="blank" href="https://github.com/viking-samurai/viking-samurai/blob/main/README.md"></a></li>
+				<li style="padding: 0;"><a class="icon brands fa-linkedin" target="blank" href="https://www.linkedin.com/in/maestro-ryan-degen"></a></li>
+				<li style="padding: 0;"><a class="icon brands fa-facebook" target="blank" href="https://www.linkedin.com/in/maestro-ryan-degen"></a></li>
 			</ul>
 		</li>
 		<li>

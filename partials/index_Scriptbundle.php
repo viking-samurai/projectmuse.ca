@@ -7,6 +7,6 @@
 			<script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
   				new Crate({
     				server: '1403502949635719288',
-					channel: '1403502952282460170'
+					channel: '1463664804051816601'
   				})
 			</script>

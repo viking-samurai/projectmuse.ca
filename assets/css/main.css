@@ -1750,6 +1750,10 @@ input, select, textarea {
   	border-radius: 4px;
 }
 
+#top-button.is-visible {
+  display: flex; /* Visible state */
+}
+
 .top-button:hover{
 	background-color: #555;
 }

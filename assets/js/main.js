@@ -10,11 +10,12 @@ window.onscroll = () => {
 
 function scrollFunction() {
   if (document.body.scrollTop > 5 || document.documentElement.scrollTop > 5) {
-	myButton.style.display = "flex";
+    myButton.classList.add('is-visible'); // Add the class
   } else {
-	myButton.style.display = "none";
+    myButton.classList.remove('is-visible'); // Remove the class
   }
 }
+
 
 // When the user clicks on the button, scroll to the top of the document
 myButton.onclick = () => {

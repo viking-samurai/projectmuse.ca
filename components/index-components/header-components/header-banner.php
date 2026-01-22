@@ -4,6 +4,6 @@
         <p class="blog-description-paragraph">From beautifully designed websites and web applications, 
             to data-driven growth strategies and brand coaching, Project Muse provides professional 
             copywriting and search engine optimization, as well as database development and training, 
-            for Calgary businesses.</p>
+            for Calgary businesses.  Join our Discord community today, and let's build something great!</p>
     </header>
 </section>
