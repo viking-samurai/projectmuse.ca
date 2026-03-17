@@ -2178,6 +2178,12 @@ input, select, textarea {
 		text-decoration: none;
 	}
 
+	.x-official {
+		color: #000000; /* This fills the square background with black */
+    	background-color: #fff; /* Ensures the 'X' itself is white */
+    	border-radius: 12%; /* Matches the rounded corners of the LinkedIn icon */
+	}
+
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;

@@ -7,7 +7,10 @@
 			<h3>Social</h3>
 			<ul class="social">
 				<li style="padding: 0;"><a class="icon brands fa-linkedin" target="blank" href="https://www.linkedin.com/in/maestro-ryan-degen"></a></li>
-				<li style="padding: 0;"><a class="icon brands fa-facebook" target="blank" href="https://www.linkedin.com/in/maestro-ryan-degen"></a></li>
+				<li style="padding: 0;">
+					<a class="icon brands fa-square-x-twitter x-official" target="blank" style="background-color: #000;"
+						href="https://x.com/DegenRyan68387"></a>
+				</li>
 			</ul>
 		</li>
 		<li>
