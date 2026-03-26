@@ -1,11 +1,38 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");
 
-/*
-	Dopetrope by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+/*	Additional CSS  */
+/*  Portfolio back pages  */
+.left-site-display {
+	display: flex;
+	flex-direction: column;
+	text-align: left;
+	justify-content: flex-start;
+}
+
+.right-site-display {
+	display: flex;
+	flex-direction: column;
+	text-align: right;
+	justify-content: flex-start;
+}
+
+.reverse {
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+.backButton {
+	margin: 0;
+}
+
+@media (max-width: 693px) {
+	.backButton {
+		margin: auto;
+		margin-left: 0;
+	}
+}
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -180,14 +207,20 @@ input, select, textarea {
 		font-weight: 400;
 		color: #484747;
 	}
+	
+	.portfolio-page-header {
+		margin: 1em;
+		margin-left: 0em;
+	}
 
 	.portfolio-paragraph {
-		font-size: 14pt;
+		font-size: 12pt;
 		font-weight: 400;
 		color: #484747;
 	}
 
 	.blog-description-paragraph {
+		font-weight: 400;
 		max-width: 30em;
 	}
 
@@ -1656,6 +1689,46 @@ input, select, textarea {
 			margin-bottom: 0;
 		}
 
+		.gallery-box {
+			background: #ffffff;
+			border-bottom: solid 1px #ccc;
+			padding: 2.75em 1.75em 2.75em 1.75em;
+			display: flex;
+			flex-direction: column;
+		}
+	
+			.gallery-box .image.featured {
+				position: relative;
+				width: auto;
+				left: 1.75em;
+				top: 1.75em;
+				margin: -4.5em 0 4.25em -3.5em;
+			}
+	
+			.gallery-box.post header {
+				padding-top: 1em;
+				margin: 0 0 2em 0;
+			}
+	
+			.gallery-box.post h2 {
+				font-size: 2.5em;
+				letter-spacing: -0.015em;
+			}
+	
+			.gallery-box.post header > p {
+				margin-top: 1.25em;
+				font-size: 1.25em;
+			}
+	
+			.gallery-box footer ul.actions {
+				margin-bottom: 0;
+			}
+
+		.gallery-box-text {
+			display: flex;
+			flex-direction: column;
+		}
+	
 /* Button */
 
 .top-button{
@@ -1675,6 +1748,10 @@ input, select, textarea {
   	cursor: pointer;
   	padding: 14px;
   	border-radius: 4px;
+}
+
+#top-button.is-visible {
+  display: flex; /* Visible state */
 }
 
 .top-button:hover{
@@ -1783,9 +1860,6 @@ input, select, textarea {
 
 .blog-image-index{
 	border-radius: 5px;
-	max-height: 14em;
-	max-width: 20em;
-	margin: 0;
 }
 
 .footer-image-index {
@@ -1804,8 +1878,6 @@ input, select, textarea {
 	}
 	
 	.blog-image-index{
-		max-height: 14em;
-		max-width: 20em;
 		margin: auto;
 	}
 }
@@ -1860,10 +1932,6 @@ input, select, textarea {
 		ol li {
 			padding-left: 0.25em;
 		}
-
-	.main-nav-dropdown {
-		text-align: center;
-	}
 
 /* Actions */
 
@@ -2110,6 +2178,12 @@ input, select, textarea {
 		text-decoration: none;
 	}
 
+	.x-official {
+		color: #000000; /* This fills the square background with black */
+    	background-color: #fff; /* Ensures the 'X' itself is white */
+    	border-radius: 12%; /* Matches the rounded corners of the LinkedIn icon */
+	}
+
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
@@ -2210,6 +2284,20 @@ input, select, textarea {
 
 /* Nav */
 
+	.main-nav-dropdown {
+		text-align: center;
+	}
+
+	.home-nav-button {
+		display: none;
+	}
+
+	@media (max-width: 693px) {
+		.home-nav-button {
+			display: flex;
+		}
+	}
+
 	#nav {
 		margin: 2.5em 0 0 0;
 	}
@@ -2302,7 +2390,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: url("../../images/miniBackground.png");
+		background: url("../../images/mainBackground.png");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
@@ -2466,7 +2554,7 @@ input, select, textarea {
 
 	#copyright {
 		text-align: center;
-		margin: 3em 0 2em 0;
+		margin: 0;
 	}
 
 		#copyright ul.links {
@@ -2474,7 +2562,7 @@ input, select, textarea {
 			background: #2C2929;
 			background: rgba(255, 255, 255, 0.05);
 			border-radius: 5px;
-			margin: 0;
+			margin: 1em auto 0 auto;
 			padding: 0.85em 2.25em 0.85em 2.25em;
 		}
 
